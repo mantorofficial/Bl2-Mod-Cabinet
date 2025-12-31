@@ -1,0 +1,2815 @@
+{
+  "schema": 1,
+  "source_repo": "bl-sdk/bl-sdk.github.io",
+  "source_path": "_willow2_mods",
+  "mods": [
+    {
+      "id": "ActionSkillCountdownTimer",
+      "name": "Action Skill Countdown Timer",
+      "author": "RedxYeti",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/ActionSkillCountdown/ActionSkillCountdown.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "AfterburnTweaks",
+      "name": "Afterburn Tweaks",
+      "author": "RedxYeti",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/AfterburnTweaks/AfterburnTweaks.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "AllMyHomiesHateSHiFT",
+      "name": "All My Homies Hate SHiFT",
+      "author": "Pyrex",
+      "version": "1.0.0",
+      "description": "",
+      "download_url": "https://github.com/PyrexBLJ/blsdk-mods/blob/main/AllMyHomiesHateSHiFT/AllMyHomiesHateSHiFT.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "AllOrNothingCompanion",
+      "name": "All Or Nothing Companion",
+      "author": "Pyrex",
+      "version": "1.0.3",
+      "description": "",
+      "download_url": "https://github.com/PyrexBLJ/blsdk-mods/blob/main/AllOrNothingCompanion/AllOrNothingCompanion.rar",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "AltUseCatchaRide",
+      "name": "AltUseCatchaRide",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "AltUseFastTravel",
+      "name": "AltUseFastTravel",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "AlwaysTeleportVehicles",
+      "name": "AlwaysTeleportVehicles",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "AmbientSpawns",
+      "name": "Ambient Spawns",
+      "author": "Siggles",
+      "version": "1.1.0",
+      "description": "",
+      "download_url": "https://github.com/Siggless/bl-sdk-mods/raw/main/AmbientSpawns/AmbientSpawns.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "UserFeedback>=1.6"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "AnarchySaver",
+      "name": "AnarchySaver",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "AudioControl",
+      "name": "Audio Control",
+      "author": "Pyrex",
+      "version": "1.0.1",
+      "description": "",
+      "download_url": "https://github.com/PyrexBLJ/blsdk-mods/blob/main/AudioControl/AudioControl1_0_1.rar",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "AutoPickup",
+      "name": "AutoPickup",
+      "author": "Tominator",
+      "version": "1.0.3",
+      "description": "",
+      "download_url": "https://github.com/tominator1pl/bl-sdk-mods/raw/main/AutoPickup/AutoPickup.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "AutoPickupTweaks",
+      "name": "AutoPickupTweaks",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "AutoSaveBlocker",
+      "name": "AutoSaveBlocker",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "AutomaticReloadFix",
+      "name": "AutomaticReloadFix",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "BL2Exodus",
+      "name": "BL2 Exodus",
+      "author": "Exotek, juso",
+      "version": "1.1.8",
+      "description": "",
+      "download_url": "https://www.nexusmods.com/borderlands2/mods/257?tab=files&file_id=1192",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "BackpackManager",
+      "name": "Backpack Manager",
+      "author": "FromDarkHell",
+      "version": "1.1",
+      "description": "",
+      "download_url": "https://github.com/bl-sdk/former-default-mods/raw/master/BackpackManager/BackpackManager.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "BadassBounties",
+      "name": "Badass Bounties",
+      "author": "juso",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/BadassBounties/BadassBounties.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "UserFeedback>=1.5"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "BadassRankLock",
+      "name": "BadassRankLock",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "BankManager",
+      "name": "BankManager",
+      "author": "PureEvil139/FromDarkHell",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/PureEvil139/Bl2-Mods/blob/9bd540a8b10b607d1584dd1459132d451c3a3e55/BankManager/BankManager.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "BankStashAnywhereBASA",
+      "name": "Bank & Stash Anywhere (BASA)",
+      "author": "Pyrex",
+      "version": "1.0.2",
+      "description": "",
+      "download_url": "https://github.com/PyrexBLJ/blsdk-mods/blob/main/BASA/BASA.rar",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "BeGoneOutOfBoundsLoot",
+      "name": "Be Gone Out Of Bounds Loot",
+      "author": "juso",
+      "version": "2.0",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/BeGoneOutOfBoundsLoot/BeGoneOutOfBoundsLoot.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "BetterDamageFeedback",
+      "name": "Better Damage Feedback",
+      "author": "ZetaD\u00e6mon",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/ZetaDaemon/bl-sdk-mods/raw/main/BetterDamageFeedback/BetterDamageFeedback.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "Enums>=1.0",
+        "Structs>=1.1"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "BetterSpawnsandBetterTravelBSABT",
+      "name": "Better Spawns and Better Travel (BSABT)",
+      "author": "juso",
+      "version": "1.2.0",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/BSABT/BSABT.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "BetterUIControls",
+      "name": "BetterUIControls",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "BigParticleParty",
+      "name": "Big Particle Party",
+      "author": "juso",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/BigParticleParty/BigParticleParty.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "BoostedTPSCharacters",
+      "name": "BoostedTPSCharacters",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "BorderlandsRewind",
+      "name": "Borderlands Rewind",
+      "author": "Justin99",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/Justin99x/bl-sdk-mods/raw/main/BorderlandsRewind/BorderlandsRewind.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "UserFeedback>=1.6"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "Bossbar",
+      "name": "Bossbar",
+      "author": "juso",
+      "version": "1.1",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/bossbar/bossbar.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "CanvasLIB",
+      "name": "CanvasLIB",
+      "author": "juso",
+      "version": "1.1",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/canvaslib/canvaslib.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "Coroutines>=1.1"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "ChangeUtil",
+      "name": "Change Util",
+      "author": "Milo",
+      "version": "0.1",
+      "description": "",
+      "download_url": "https://github.com/ncalvin1/Milo-BL2-SDK-Mods/raw/refs/heads/main/ChangeUtil/ChangeUtil_v0.1.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "Chronos",
+      "name": "Chronos",
+      "author": "juso",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/blob/master/Chronos/__init__.py",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "CleaningUpPandora",
+      "name": "Cleaning Up Pandora",
+      "author": "Deceptix_",
+      "version": "1.1",
+      "description": "",
+      "download_url": "https://github.com/Decept1x/Borderlands-Cleaning-Up-Pandora/releases/tag/1.1",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "CollisionVisualizer",
+      "name": "Collision Visualizer",
+      "author": "None",
+      "version": "0.1.0",
+      "description": "",
+      "download_url": "https://github.com/NoneGiven/bl-sdk-mods/raw/main/CollisionVisualizer/CollisionVisualizer.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "ComboCounter",
+      "name": "ComboCounter",
+      "author": "Juso, Sartick",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/Sartick/bl-sdk-mods/blob/main/ComboCounter/ComboCounter.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "Commander",
+      "name": "Commander",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "ConfigurableViewModelCVM",
+      "name": "ConfigurableViewModel (CVM)",
+      "author": "juso",
+      "version": "2.1",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/ConfigurableViewmodel/ConfigurableViewmodel.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "ConsistentTime",
+      "name": "ConsistentTime",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "ConsoleFontSize",
+      "name": "Console Font Size",
+      "author": "ZetaD\u00e6mon",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/ZetaDaemon/bl-sdk-mods/raw/main/ConsoleFontSize/ConsoleFontSize.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "Constructor",
+      "name": "Constructor",
+      "author": "juso",
+      "version": "1.2.0",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/Constructor/Constructor.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "Coroutines",
+      "name": "Coroutines",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "CrossClassSkillRandomizer",
+      "name": "Cross Class Skill Randomizer",
+      "author": "Abahbob",
+      "version": "1.2",
+      "description": "",
+      "download_url": "https://github.com/bl-sdk/former-default-mods/raw/master/SkillRandomizer/SkillRandomizer.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "CustomScopedSensitivity",
+      "name": "Custom Scoped Sensitivity",
+      "author": "Deceptix_",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/Decept1x/Borderlands-Custom-Scoped-Sensitivity/releases/tag/1.0",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "CustomSkins",
+      "name": "Custom Skins",
+      "author": "FromDarkHell",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/FromDarkHell/bl-sdk-mods/blob/main/CustomSkins/CustomSkins.zip?raw=true",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "DeathTrapMemoryProgram",
+      "name": "Death Trap Memory Program",
+      "author": "Lengyu",
+      "version": "1.4",
+      "description": "",
+      "download_url": "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/DeathTrapMemory/DeathTrapMemory.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "UserFeedback>=1.6"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "DeathtrapShield",
+      "name": "Deathtrap Shield",
+      "author": "Relentless",
+      "version": "1.1.1",
+      "description": "",
+      "download_url": "https://github.com/DAmNRelentless/bl2-deathtrapshield/releases/tag/v1.1.1",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "EridiumLib>=0.4.2"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "DialogRandomizer",
+      "name": "Dialog Randomizer",
+      "author": "juso",
+      "version": "2.1",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/dialograndomizer/dialograndomizer.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "DifficultyModes",
+      "name": "Difficulty Modes",
+      "author": "ZetaD\u00e6mon",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/ZetaDaemon/bl-sdk-mods/raw/main/DifficultyModes/DifficultyModes.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "Structs>=1.0",
+        "Enums>=1.1"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "DropChanceMultiplier",
+      "name": "DropChanceMultiplier",
+      "author": "juso",
+      "version": "2.0",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/DropChanceMultiplier/DropChanceMultiplier.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "DualBinds",
+      "name": "Dual Binds",
+      "author": "RedxYeti",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/tree/main/DualBinds",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "EarlySkillPoints",
+      "name": "EarlySkillPoints",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "EasyReadOnly",
+      "name": "Easy Read Only",
+      "author": "FromDarkHell",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/bl-sdk/former-default-mods/raw/master/ReadOnly/ReadOnly.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "EffectRandomizer",
+      "name": "Effect Randomizer",
+      "author": "Milo",
+      "version": "0.1",
+      "description": "",
+      "download_url": "https://github.com/ncalvin1/Milo-BL2-SDK-Mods/raw/refs/heads/main/EffectRandomizer/EffectRandomizer_v0.1.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "Change Util>=0.1"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "Emotes",
+      "name": "Emotes",
+      "author": "juso",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/Emotes/Emotes.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "EndActionSkillKey",
+      "name": "End Action Skill Key",
+      "author": "RedxYeti",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/EndActionSkillKey/EndActionSkillKey.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "Enums",
+      "name": "Enums",
+      "author": "apple1417",
+      "version": "1.1",
+      "description": "",
+      "download_url": "https://github.com/apple1417/willow2-sdk-mods/raw/master/.legacy/Enums.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "EridiumLib",
+      "name": "EridiumLib",
+      "author": "Chronophylos and Relentless",
+      "version": "0.4.2",
+      "description": "",
+      "download_url": "https://github.com/DAmNRelentless/bl2-eridiumlib/releases/tag/v0.4.2",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "ExpAdjuster",
+      "name": "Exp Adjuster",
+      "author": "plu5",
+      "version": "1.0.0 2021-04-05",
+      "description": "",
+      "download_url": "https://github.com/plu5/p-borderlands/releases/latest",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "FPSSlider",
+      "name": "FPS Slider",
+      "author": "juso",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/fpsslider/fpsslider.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "FarmCounter",
+      "name": "Farm Counter",
+      "author": "ZetaD\u00e6mon",
+      "version": "1.1",
+      "description": "",
+      "download_url": "https://github.com/ZetaDaemon/bl-sdk-mods/raw/main/FarmCounter/FarmCounter.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "UserFeedback>=1.5"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "FiringFix",
+      "name": "FiringFix",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "FirstPersonDriver",
+      "name": "FirstPersonDriver",
+      "author": "juso",
+      "version": "2.0",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/FirstPersonDriver/FirstPersonDriver.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "GameScaler",
+      "name": "Game Scaler",
+      "author": "Rossay",
+      "version": "2.1",
+      "description": "",
+      "download_url": "https://github.com/Rossays/BL-SDK-Mods/raw/main/Game%20Scaler/GameScaler.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "GearRandomiser",
+      "name": "Gear Randomiser",
+      "author": "ZetaD\u00e6mon",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/ZetaDaemon/bl-sdk-mods/raw/main/GearRandomiser/GearRandomiser.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "Structs>=1.0",
+        "Sanity Saver>=2.2"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "GrenadeJumpKey",
+      "name": "GrenadeJumpKey",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "GrenadeModQuickSwitcher",
+      "name": "GrenadeModQuickSwitcher",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "HitSounds",
+      "name": "HitSounds",
+      "author": "juso",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/blob/master/HitSounds/__init__.py",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "ItemLevelUncapper",
+      "name": "Item Level Uncapper",
+      "author": "apple1417",
+      "version": "1.3",
+      "description": "",
+      "download_url": "https://github.com/apple1417/willow2-sdk-mods/raw/master/.legacy/ItemLevelUncapper.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "ItemLights",
+      "name": "ItemLights",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "JumpToLevelChallenges",
+      "name": "JumpToLevelChallenges",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "KeepAnarchy",
+      "name": "KeepAnarchy",
+      "author": "Sampletext282",
+      "version": "0.9",
+      "description": "",
+      "download_url": "https://github.com/Sampletext282/bl2-mods/blob/main/KeepAnarchy/KeepAnarchy.zip?raw=true",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "KeyboardChange",
+      "name": "Keyboard Change",
+      "author": "Ceiyne",
+      "version": "0.1.1",
+      "description": "",
+      "download_url": "https://gitlab.com/Ceiyne/borderlands-mods/-/raw/main/Keyboard%20Change/KBChange.zip?inline=false",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "LengyuCopyDevice",
+      "name": "Lengyu Copy Device",
+      "author": "Lengyu",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/LengyuCopyDevice/LengyuCopyDevice.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "LengyuTPDevice",
+      "name": "Lengyu TP Device",
+      "author": "Lengyu",
+      "version": "1.3",
+      "description": "",
+      "download_url": "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/LengyuTPDevice/LengyuTPDevice.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "UserFeedback>=1.6"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "LessDOTScreams",
+      "name": "LessDOTScreams",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "LilithPatch",
+      "name": "Lilith Patch",
+      "author": "Milo",
+      "version": "0.1",
+      "description": "",
+      "download_url": "https://github.com/ncalvin1/Milo-BL2-SDK-Mods/raw/refs/heads/main/LilithPatch/LilithPatch_v0.1.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "LiveFeed",
+      "name": "Live Feed",
+      "author": "mopioid",
+      "version": "1.2",
+      "description": "",
+      "download_url": "https://github.com/mopioid/Borderlands-Live-Feed/releases/tag/1.2",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "LootCollector",
+      "name": "Loot Collector",
+      "author": "Lengyu",
+      "version": "1.4",
+      "description": "",
+      "download_url": "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/LootCollector/LootCollector.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "LootCollision",
+      "name": "Loot Collision",
+      "author": "RedxYeti",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/LootCollision/LootCollision.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "LootMarker",
+      "name": "LootMarker",
+      "author": "juso",
+      "version": "1.4",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/LootMarker/LootMarker.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "LootNotificator",
+      "name": "LootNotificator",
+      "author": "juso",
+      "version": "2.1",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/LootNotificator/LootNotificator.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "LootRandomizer",
+      "name": "Loot Randomizer",
+      "author": "mopioid",
+      "version": "1.5.5",
+      "description": "",
+      "download_url": "https://github.com/mopioid/Borderlands-Loot-Randomizer/releases",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "MapLoader",
+      "name": "MapLoader",
+      "author": "juso",
+      "version": "1.4.3",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/MapLoader/MapLoader.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "MapReloader",
+      "name": "Map Reloader",
+      "author": "FromDarkHell",
+      "version": "1.1",
+      "description": "",
+      "download_url": "https://github.com/bl-sdk/former-default-mods/raw/master/Quickload/Quickload.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "MeleeEnhancement",
+      "name": "Melee Enhancement",
+      "author": "LaryIsland",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/LaryIsland/bl-sdk-mods/raw/main/MeleeEnhancement/MeleeEnhancement.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "Structs>=1.1"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "MissionQuickswitcher",
+      "name": "MissionQuickswitcher",
+      "author": "juso",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://raw.githubusercontent.com/juso40/bl2sdk_Mods/master/MissionQuickswitcher/MissionQuickswitcher.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "MissionSelector",
+      "name": "Mission Selector",
+      "author": "Chronophylos and Relentless",
+      "version": "1.3.2",
+      "description": "",
+      "download_url": "https://github.com/DAmNRelentless/bl2-missionselector/releases/tag/v1.3.2",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "EridiumLib>=0.4.2"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "MovementTech",
+      "name": "Movement Tech",
+      "author": "ZetaD\u00e6mon",
+      "version": "1.2",
+      "description": "",
+      "download_url": "https://github.com/ZetaDaemon/bl-sdk-mods/raw/main/MovementTech/MovementTech.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "Enums>=1.0"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "MyFavorite",
+      "name": "My Favorite",
+      "author": "Milo",
+      "version": "0.1",
+      "description": "",
+      "download_url": "https://github.com/ncalvin1/Milo-BL2-SDK-Mods/raw/refs/heads/main/MyFavoriteMod/MyFavoriteMod_v0.1.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "NPCRevives",
+      "name": "NPCRevives",
+      "author": "juso",
+      "version": "1.1",
+      "description": "",
+      "download_url": "https://raw.githubusercontent.com/juso40/bl2sdk_Mods/master/NPCRevives/NPCRevives.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "NewWeaponOnKill",
+      "name": "New Weapon On Kill",
+      "author": "RedxYeti",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/NewWeaponOnKill/NewWeaponOnKill.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "NoCrosshair",
+      "name": "NoCrosshair",
+      "author": "juso",
+      "version": "1.1",
+      "description": "",
+      "download_url": "https://raw.githubusercontent.com/juso40/bl2sdk_Mods/master/NoCrosshair/NoCrosshair.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "NoTextureFade",
+      "name": "NoTextureFade",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "ObjectRelocator",
+      "name": "ObjectRelocator",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "Onezerker",
+      "name": "Onezerker",
+      "author": "apple1417",
+      "version": "1.8",
+      "description": "",
+      "download_url": "https://github.com/apple1417/willow2-sdk-mods/raw/master/.legacy/Onezerker.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "OpenSanctuaryDoors",
+      "name": "OpenSanctuaryDoors",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "OpenSesame",
+      "name": "Open Sesame",
+      "author": "Zazk0u",
+      "version": "1.1",
+      "description": "",
+      "download_url": "https://github.com/Zazk0u/bl-sdk-mods/blob/main/OpenSesame/OpenSesame.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "OptionalObjectivesReward",
+      "name": "OptionalObjectivesReward",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "Photomode",
+      "name": "Photomode",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "PickupAsTrash",
+      "name": "PickupAsTrash",
+      "author": "Tominator",
+      "version": "1.0.1",
+      "description": "",
+      "download_url": "https://github.com/tominator1pl/bl-sdk-mods/raw/main/PickupAsTrash/PickupAsTrash.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "Enums>=1.0",
+        "Structs>=1.0"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "PickupMessage",
+      "name": "Pickup Message",
+      "author": "juso",
+      "version": "1.1",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/PickupMessages/PickupMessages.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "Coroutines>=1.1"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "PizzaForFastball",
+      "name": "PizzaForFastball",
+      "author": "juso",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://raw.githubusercontent.com/juso40/bl2sdk_Mods/master/PizzaForFastball/__init__.py",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "PlayerRandomizer",
+      "name": "Player Randomizer",
+      "author": "Milo",
+      "version": "0.2",
+      "description": "",
+      "download_url": "https://github.com/ncalvin1/Milo-BL2-SDK-Mods/raw/refs/heads/main/PlayerRandomizer/PlayerRandomizer_v0.2.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "Pokelands",
+      "name": "Pokelands",
+      "author": "juso",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/Pokelands/Pokelands.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "ProjectileRandomizer",
+      "name": "ProjectileRandomizer",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "PythonPartNotifier",
+      "name": "Python Part Notifier",
+      "author": "apple1417",
+      "version": "1.9",
+      "description": "",
+      "download_url": "https://github.com/apple1417/willow2-sdk-mods/raw/master/.legacy/PythonPartNotifier.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "QuietConsole",
+      "name": "Quiet Console",
+      "author": "RedxYeti",
+      "version": "1.1",
+      "description": "",
+      "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/QuietConsole/QuietConsole.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "ReignOfGiants",
+      "name": "Reign Of Giants",
+      "author": "mopioid",
+      "version": "1.2",
+      "description": "",
+      "download_url": "https://github.com/mopioid/Borderlands-Reign-Of-Giants/releases/tag/1.2",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "RespecHotKeyRHK",
+      "name": "Respec HotKey (RHK)",
+      "author": "Pyrex",
+      "version": "1.0.0",
+      "description": "",
+      "download_url": "https://github.com/PyrexBLJ/blsdk-mods/blob/main/RHK/RHK.rar",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "ReviveTimeModifier",
+      "name": "Revive Time Modifier",
+      "author": "RedxYeti",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/ReviveTimeModifier/ReviveTimeModifier.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "RewardReroller",
+      "name": "Reward Reroller",
+      "author": "ZetaD\u00e6mon",
+      "version": "1.1",
+      "description": "",
+      "download_url": "https://github.com/ZetaDaemon/bl-sdk-mods/raw/main/RewardReroller/RewardReroller.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "Enums>=1.0",
+        "Structs>=1.1"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "RogueLands",
+      "name": "RogueLands",
+      "author": "juso",
+      "version": "1.3",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/RogueLands/RogueLands.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "UserFeedback>=1.5"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "RunCounter",
+      "name": "Run Counter",
+      "author": "Pyrex",
+      "version": "1.0.8",
+      "description": "",
+      "download_url": "https://github.com/PyrexBLJ/blsdk-mods/blob/main/RunCounter/RunCounter1.0.8.rar",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "SanitySaver",
+      "name": "Sanity Saver",
+      "author": "apple1417",
+      "version": "2.2",
+      "description": "",
+      "download_url": "https://github.com/apple1417/willow2-sdk-mods/raw/c631c70226fe05e0209c34cd4f4e489a0c7154ce/SanitySaver/SanitySaver.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "SavesBackuper",
+      "name": "Saves Backuper",
+      "author": "plu5",
+      "version": "1.0.0 2021-04-21",
+      "description": "",
+      "download_url": "https://github.com/plu5/p-borderlands/releases/latest",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "UserFeedback>=1.5"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "ScaledTVHM",
+      "name": "ScaledTVHM",
+      "author": "juso",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/ScaledTVHM/ScaledTVHM.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "ShieldRechargeTimer",
+      "name": "Shield Recharge Timer",
+      "author": "LaryIsland",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/LaryIsland/bl-sdk-mods/raw/main/ShieldRechargeTimer/ShieldRechargeTimer.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "ShopReseter",
+      "name": "Shop Reseter",
+      "author": "Lengyu",
+      "version": "1.1",
+      "description": "",
+      "download_url": "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/ShopReseter/ShopReseter.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "SillyScales",
+      "name": "Silly Scales",
+      "author": "RedxYeti",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/SillyScales/SillyScales.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "SimpleChineseFix",
+      "name": "Simple Chinese Fix",
+      "author": "Lengyu",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/SimpleChineseFix/SimpleChineseFix.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "SimpleZoom",
+      "name": "SimpleZoom",
+      "author": "juso",
+      "version": "1.0.0",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/SimpleZoom/SimpleZoom.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "SkillSaver",
+      "name": "Skill Saver",
+      "author": "FromDarkHell",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/FromDarkHell/bl-sdk-mods/blob/main/SkillSaver/SkillSaver.zip?raw=true",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "UserFeedback>=1.5"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "SkillToggles",
+      "name": "Skill Toggles",
+      "author": "Relentless and Chronophylos",
+      "version": "1.3.2",
+      "description": "",
+      "download_url": "https://github.com/DAmNRelentless/bl2-skilltoggles/releases/tag/v1.3.2",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "EridiumLib>=0.4.2"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "SkillTreeLoadouts",
+      "name": "SkillTreeLoadouts",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "SkinRandomizer",
+      "name": "Skin Randomizer",
+      "author": "Cael",
+      "version": "1.2",
+      "description": "",
+      "download_url": "https://github.com/Cae-l/bl-sdk-mods/raw/master/SkinRandomizer/SkinRandomizer.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "SniperButton",
+      "name": "SniperButton",
+      "author": "Pyrex",
+      "version": "1.0.3",
+      "description": "",
+      "download_url": "https://github.com/PyrexBLJ/blsdk-mods/blob/main/SniperButton/SniperButton.rar",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "SodOffSkeletonMages",
+      "name": "SodOffSkeletonMages",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "SpareParts",
+      "name": "Spare Parts",
+      "author": "LaryIsland",
+      "version": "1.6",
+      "description": "",
+      "download_url": "https://github.com/LaryIsland/bl-sdk-mods/raw/main/SpareParts/SpareParts.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "UserFeedback>=1.5",
+        "Python Part Notifier>=1.9"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "SprintAdjuster",
+      "name": "Sprint Adjuster",
+      "author": "plu5",
+      "version": "1.1.0 2021-05-17",
+      "description": "",
+      "download_url": "https://github.com/plu5/p-borderlands/releases/latest",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "SprintSetandForget",
+      "name": "Sprint Set-and-Forget",
+      "author": "Ceiyne",
+      "version": "1.0.0",
+      "description": "",
+      "download_url": "https://gitlab.com/Ceiyne/borderlands-mods/-/raw/main/Sprint%20Set-and-Forget/Sprint_Set-and-Forget.zip?inline=false",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "StorageManager",
+      "name": "Storage Manager",
+      "author": "Milo",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/ncalvin1/Milo-BL2-SDK-Mods/raw/refs/heads/main/StorageManager/StorageManager_v1.0.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "Structs",
+      "name": "Structs",
+      "author": "apple1417",
+      "version": "1.1",
+      "description": "",
+      "download_url": "https://github.com/apple1417/willow2-sdk-mods/raw/master/.legacy/Structs.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "SuperScreenshots",
+      "name": "Super Screenshots",
+      "author": "Pyrex",
+      "version": "1.0.0",
+      "description": "",
+      "download_url": "https://github.com/PyrexBLJ/blsdk-mods/blob/main/SuperScreenshots/SuperScreenshots.rar",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "TPSExodus",
+      "name": "TPS Exodus",
+      "author": "Exotek, juso",
+      "version": "1.0.3",
+      "description": "",
+      "download_url": "https://www.nexusmods.com/borderlandspresequel/mods/44?tab=files&file_id=101",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "TPSSkinFix",
+      "name": "TPS SkinFix",
+      "author": "juso",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/SkinFix/SkinFix.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "TPSStyleBHop",
+      "name": "TPSStyleBHop",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "ThrowWeaponThenPickup",
+      "name": "Throw Weapon Then Pickup",
+      "author": "Lengyu",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/ThrowWeaponThenPickup/ThrowWeaponThenPickup.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "TimeofDayChanger",
+      "name": "Time of Day Changer",
+      "author": "Snake",
+      "version": "1.0.1",
+      "description": "",
+      "download_url": "https://github.com/slserpent/bl-sdk-mods/raw/main/DayNight/DayNight.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "Trivia",
+      "name": "Trivia",
+      "author": "Pyrex",
+      "version": "1.0.2",
+      "description": "",
+      "download_url": "https://github.com/PyrexBLJ/blsdk-mods/blob/main/Trivia/Trivia.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "MapLoader>=1.4.3",
+        "UserFeedback>=1.6"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "UberPostProcessing",
+      "name": "Uber Post Processing",
+      "author": "juso",
+      "version": "1.2",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/UberPostProcessing/UberPostProcessing.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "UltimateScavengerMod",
+      "name": "Ultimate Scavenger Mod",
+      "author": "RedxYeti",
+      "version": "1.5",
+      "description": "",
+      "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/UltimateScavengerMod/Ultimate%20Scavenger%20Mod.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "UnspecSkills",
+      "name": "Unspec Skills",
+      "author": "ZetaD\u00e6mon",
+      "version": "1.1",
+      "description": "",
+      "download_url": "https://github.com/ZetaDaemon/bl-sdk-mods/raw/main/UnspecSkills/UnspecSkills.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "Enums>=1.0"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "UserFeedback",
+      "name": "UserFeedback",
+      "author": "apple1417",
+      "version": "1.6",
+      "description": "",
+      "download_url": "https://github.com/apple1417/willow2-sdk-mods/raw/master/.legacy/UserFeedback.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "VisualTriggers",
+      "name": "Visual Triggers",
+      "author": "GameChanger97",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/GameChanger97/Bl2-Mods/blob/main/VisualTriggers/VisualTriggers.zip?raw=true",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "WeaponDebug",
+      "name": "Weapon Debug",
+      "author": "Snake",
+      "version": "1.0.1",
+      "description": "",
+      "download_url": "https://github.com/slserpent/bl-sdk-mods/raw/main/WeaponDebug/WeaponDebug.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "Enums>=1.0"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "WeaponProf",
+      "name": "WeaponProf",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "WeaponQuickSwitcher",
+      "name": "Weapon Quick Switcher",
+      "author": "Lengyu",
+      "version": "1.1",
+      "description": "",
+      "download_url": "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/WeaponQuickSwitcher/WeaponQuickSwitcher.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "WeaponRandomizer",
+      "name": "Weapon Randomizer",
+      "author": "juso",
+      "version": "1.0",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/WeaponRandomizer/WeaponRandomizer.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "akeventplayer",
+      "name": "akeventplayer",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "alt_use_vendors",
+      "name": "alt_use_vendors",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "apples_borderlands_cheats",
+      "name": "apples_borderlands_cheats",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "bl2eternal",
+      "name": "bl2eternal",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "blimgui",
+      "name": "blimgui",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "command_extensions",
+      "name": "command_extensions",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "decent_console",
+      "name": "decent_console",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "dialog_skipper",
+      "name": "dialog_skipper",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "enemy_level_randomizer",
+      "name": "enemy_level_randomizer",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "equip_locker",
+      "name": "equip_locker",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "find_actors",
+      "name": "find_actors",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "hide_undiscovered_missions",
+      "name": "hide_undiscovered_missions",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "inventory_editor",
+      "name": "inventory_editor",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "mario",
+      "name": "mario",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "mateditor",
+      "name": "mateditor",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "no_ads",
+      "name": "no_ads",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "nocap",
+      "name": "nocap",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "offline_helpers",
+      "name": "offline_helpers",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "ohko",
+      "name": "ohko",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "paintball",
+      "name": "paintball",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "ping",
+      "name": "ping",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "quick_startup",
+      "name": "quick_startup",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "save_file_organizer",
+      "name": "save_file_organizer",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "scaling_adjuster",
+      "name": "scaling_adjuster",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "sliding",
+      "name": "sliding",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "spawn_multiplier",
+      "name": "spawn_multiplier",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "speedometer",
+      "name": "speedometer",
+      "author": "juso",
+      "version": "1.1",
+      "description": "",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/speedometer/speedometer.zip",
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [
+        "Coroutines>=1.1",
+        "UEMath Library>=1.3",
+        "CanvasLIB>=1.0"
+      ],
+      "incompatible_with": []
+    },
+    {
+      "id": "speedrun_practice",
+      "name": "speedrun_practice",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "text_mod_loader",
+      "name": "text_mod_loader",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "tracelib",
+      "name": "tracelib",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "true_damage_logger",
+      "name": "true_damage_logger",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "tweens",
+      "name": "tweens",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "ue_timers",
+      "name": "ue_timers",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "uemath",
+      "name": "uemath",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "vendor_edit",
+      "name": "vendor_edit",
+      "author": "Unknown",
+      "version": "0.0.0",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    },
+    {
+      "id": "willow2_mod_manager",
+      "name": "willow2_mod_manager",
+      "author": "Unknown",
+      "version": "Unknown",
+      "description": "",
+      "download_url": null,
+      "sha256": null,
+      "sdk": {
+        "min": "0.0.0",
+        "max": "999.999.999"
+      },
+      "dependencies": [],
+      "incompatible_with": []
+    }
+  ]
+}
