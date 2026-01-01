@@ -1,2815 +1,3185 @@
 {
   "schema": 1,
-  "source_repo": "bl-sdk/bl-sdk.github.io",
-  "source_path": "_willow2_mods",
+  "generated_at": 1767307678,
+  "source": {
+    "repo": "bl-sdk/bl-sdk.github.io",
+    "branch": "master",
+    "subdir": "_willow2_mods"
+  },
   "mods": [
     {
       "id": "ActionSkillCountdownTimer",
       "name": "Action Skill Countdown Timer",
       "author": "RedxYeti",
       "version": "1.0",
-      "description": "",
+      "description": "When your action skill ends, a timer will start on your hud. The timer is fairly customizable, you can change its color, position, size and font. Note: The timer is more based on your action skill cooldown rate more than actual seconds. Thanks to ZetaDaemon for the farm counter, which made this possible.",
       "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/ActionSkillCountdown/ActionSkillCountdown.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/ActionSkillCountdownTimer.md"
     },
     {
       "id": "AfterburnTweaks",
       "name": "Afterburn Tweaks",
       "author": "RedxYeti",
       "version": "1.0",
-      "description": "",
+      "description": "Using this mod you can change: Minimum start speed for afterburner Afterburn speed Afterburn duration Afterburn regen rate Afterburn regen delay For the runner, technical and hovercraft. I mostly made this so I could afterburn right away like borderlands 1.",
       "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/AfterburnTweaks/AfterburnTweaks.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/AfterburnTweaks.md"
+    },
+    {
+      "id": "akeventplayer",
+      "name": "akeventplayer",
+      "author": "Unknown",
+      "version": "",
+      "description": "",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/akeventplayer.md"
     },
     {
       "id": "AllMyHomiesHateSHiFT",
       "name": "All My Homies Hate SHiFT",
       "author": "Pyrex",
       "version": "1.0.0",
-      "description": "",
+      "description": "Sets offline/lan mode on boot to speed up starting the game a lil bit",
       "download_url": "https://github.com/PyrexBLJ/blsdk-mods/blob/main/AllMyHomiesHateSHiFT/AllMyHomiesHateSHiFT.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/AllMyHomiesHateSHiFT.md"
     },
     {
       "id": "AllOrNothingCompanion",
       "name": "All Or Nothing Companion",
       "author": "Pyrex",
       "version": "1.0.3",
-      "description": "",
+      "description": "Joltz idea for a deception modifier in his AON run",
       "download_url": "https://github.com/PyrexBLJ/blsdk-mods/blob/main/AllOrNothingCompanion/AllOrNothingCompanion.rar",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/AllOrNothingCompanion.md"
+    },
+    {
+      "id": "alt_use_vendors",
+      "name": "alt_use_vendors",
+      "author": "Unknown",
+      "version": "",
+      "description": "Adds alt use binds to vendors to let you quickly refill health and ammo and sell trash, like in BL3/Wonderlands.",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/alt_use_vendors.md"
     },
     {
       "id": "AltUseCatchaRide",
       "name": "AltUseCatchaRide",
       "author": "Unknown",
-      "version": "0.0.0",
+      "version": "",
       "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/AltUseCatchaRide.md"
     },
     {
       "id": "AltUseFastTravel",
       "name": "AltUseFastTravel",
       "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "version": "",
+      "description": "This mod enables alt use for fast travel stations that will travel you to either your current objective, the station you last traveled from, or a specific station.",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/AltUseFastTravel.md"
     },
     {
       "id": "AlwaysTeleportVehicles",
       "name": "AlwaysTeleportVehicles",
       "author": "Unknown",
-      "version": "0.0.0",
+      "version": "",
       "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/AlwaysTeleportVehicles.md"
     },
     {
       "id": "AmbientSpawns",
       "name": "Ambient Spawns",
       "author": "Siggles",
       "version": "1.1.0",
-      "description": "",
+      "description": "Periodically spawns random groups of enemies. The idea is to make the game more unpredictable.",
       "download_url": "https://github.com/Siggless/bl-sdk-mods/raw/main/AmbientSpawns/AmbientSpawns.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [
         "UserFeedback>=1.6"
       ],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/AmbientSpawns.md"
     },
     {
       "id": "AnarchySaver",
       "name": "AnarchySaver",
       "author": "Unknown",
-      "version": "0.0.0",
+      "version": "",
       "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/AnarchySaver.md"
+    },
+    {
+      "id": "apples_borderlands_cheats",
+      "name": "apples_borderlands_cheats",
+      "author": "Unknown",
+      "version": "",
+      "description": "Adds keybinds performing various cheaty things.",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/apples_borderlands_cheats.md"
     },
     {
       "id": "AudioControl",
       "name": "Audio Control",
       "author": "Pyrex",
       "version": "1.0.1",
-      "description": "",
+      "description": "Stop certain sounds from playing, more sounds can be added in the future",
       "download_url": "https://github.com/PyrexBLJ/blsdk-mods/blob/main/AudioControl/AudioControl1_0_1.rar",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/AudioControl.md"
+    },
+    {
+      "id": "AutomaticReloadFix",
+      "name": "AutomaticReloadFix",
+      "author": "Unknown",
+      "version": "",
+      "description": "",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/AutomaticReloadFix.md"
     },
     {
       "id": "AutoPickup",
       "name": "AutoPickup",
       "author": "Tominator",
       "version": "1.0.3",
-      "description": "",
+      "description": "Automatically pickups consumable items, such as Ammo, Health, Eridium. It's an attempt to automatically pickup items from chest after opening, BL3 style. Side effect is that it tries to pickup from the ground also.",
       "download_url": "https://github.com/tominator1pl/bl-sdk-mods/raw/main/AutoPickup/AutoPickup.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/AutoPickup.md"
     },
     {
       "id": "AutoPickupTweaks",
       "name": "AutoPickupTweaks",
       "author": "Unknown",
-      "version": "0.0.0",
+      "version": "",
       "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/AutoPickupTweaks.md"
     },
     {
       "id": "AutoSaveBlocker",
       "name": "AutoSaveBlocker",
       "author": "Unknown",
-      "version": "0.0.0",
+      "version": "",
       "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "AutomaticReloadFix",
-      "name": "AutomaticReloadFix",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "BL2Exodus",
-      "name": "BL2 Exodus",
-      "author": "Exotek, juso",
-      "version": "1.1.8",
-      "description": "",
-      "download_url": "https://www.nexusmods.com/borderlands2/mods/257?tab=files&file_id=1192",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/AutoSaveBlocker.md"
     },
     {
       "id": "BackpackManager",
       "name": "Backpack Manager",
       "author": "FromDarkHell",
       "version": "1.1",
-      "description": "",
+      "description": "Customize the size of your character's backpack on the fly!",
       "download_url": "https://github.com/bl-sdk/former-default-mods/raw/master/BackpackManager/BackpackManager.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/BackpackManager.md"
     },
     {
       "id": "BadassBounties",
       "name": "Badass Bounties",
       "author": "juso",
       "version": "1.0",
-      "description": "",
+      "description": "Adds many randomly generated bounties to the game. Each bounty will reward you with XP, Money and a random item upon completion. The rarity of the reward items scale with your level. To open the bounty board menu check your modded keybinds menu.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/BadassBounties/BadassBounties.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [
         "UserFeedback>=1.5"
       ],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/BadassBounties.md"
     },
     {
       "id": "BadassRankLock",
       "name": "BadassRankLock",
       "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "version": "",
+      "description": "Prevents badass rank increasing, and non-level-specific challenge reward pop-ups from showing. Intended for use with mods that would otherwise give you loads of rank.",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/BadassRankLock.md"
     },
     {
       "id": "BankManager",
       "name": "BankManager",
       "author": "PureEvil139/FromDarkHell",
       "version": "1.0",
-      "description": "",
+      "description": "Customize the size of your character’s backpack on the fly!",
       "download_url": "https://github.com/PureEvil139/Bl2-Mods/blob/9bd540a8b10b607d1584dd1459132d451c3a3e55/BankManager/BankManager.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/BankManager.md"
     },
     {
       "id": "BankStashAnywhereBASA",
       "name": "Bank & Stash Anywhere (BASA)",
       "author": "Pyrex",
       "version": "1.0.2",
-      "description": "",
+      "description": "Use the bank and stash from anywhere with a hotkey. Can cause some visual texture issues",
       "download_url": "https://github.com/PyrexBLJ/blsdk-mods/blob/main/BASA/BASA.rar",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/BankStashAnywhereBASA.md"
     },
     {
       "id": "BeGoneOutOfBoundsLoot",
       "name": "Be Gone Out Of Bounds Loot",
       "author": "juso",
       "version": "2.0",
-      "description": "",
+      "description": "Gone are the times of missing loot because it fell out of the reachable area. This mod adds a configurable keybind, that will allow you to teleport all loot on the ground directly in front of you. Default Key: ``Enter``",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/BeGoneOutOfBoundsLoot/BeGoneOutOfBoundsLoot.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/BeGoneOutOfBoundsLoot.md"
     },
     {
       "id": "BetterDamageFeedback",
       "name": "Better Damage Feedback",
-      "author": "ZetaD\u00e6mon",
+      "author": "ZetaD\\xE6mon",
       "version": "1.0",
-      "description": "",
+      "description": "Allows for the customisation of damage particles changing the colour, colour on crit, toggle CRITICAL effect, increased size on crit or turn damage numbers off entirely. Additionally allows for hit sounds and critical hit sounds.",
       "download_url": "https://github.com/ZetaDaemon/bl-sdk-mods/raw/main/BetterDamageFeedback/BetterDamageFeedback.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [
         "Enums>=1.0",
         "Structs>=1.1"
       ],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/BetterDamageFeedback.md"
     },
     {
       "id": "BetterSpawnsandBetterTravelBSABT",
       "name": "Better Spawns and Better Travel (BSABT)",
       "author": "juso",
       "version": "1.2.0",
-      "description": "",
+      "description": "Ports back some qol features of BL3: - open the fast travel from anywhere - teleport in your vehicle from the map menu - spawn at the last triggered spawn station",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/BSABT/BSABT.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/BetterSpawnsandBetterTravelBSABT.md"
     },
     {
       "id": "BetterUIControls",
       "name": "BetterUIControls",
       "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "version": "",
+      "description": "This mod will let you use your movement keys (in my case WASD) to control a bunch of menus. It also enables your Use key (in my case E) to select items in menus. The mod will automatically adjust to your keys.",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/BetterUIControls.md"
     },
     {
       "id": "BigParticleParty",
       "name": "Big Particle Party",
       "author": "juso",
       "version": "1.0",
-      "description": "",
+      "description": "Have you ever felt like the games particles is lacking a bit of oomph? Big PP allows you to increase the amount of various particles. Check out the various particle types in the mod options. Using Big PP might decrease your performance, depending on your GPU and your game settings.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/BigParticleParty/BigParticleParty.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/BigParticleParty.md"
+    },
+    {
+      "id": "bl2eternal",
+      "name": "bl2eternal",
+      "author": "Unknown",
+      "version": "",
+      "description": "",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/bl2eternal.md"
+    },
+    {
+      "id": "BL2Exodus",
+      "name": "BL2 Exodus",
+      "author": "Exotek, juso",
+      "version": "1.1.8",
+      "description": "Features: - Kill it with fire! But only if it's fleshy. Rebalanced elemental damage that punishes you for using conflicting types, and applies new debuffs depending on the type you use - regardless of weakness. - Be what you set out to be. Vault Hunters are now better at what they're good at, and worse at what they're not. Zer0 for example is more agile, but less resilient, while Salvador has the opposite effects. - Guns that are greater than the sum of their parts. Weapon parts have been rebalanced across the board, sharpening up some of the underperforming pieces of the arsenal, and generally making them more specialized. Matching parts still kick ass! - Take the time to accessorize. Weapon accessories are now standardized across all weapon types. - New unique items. Discover new and exciting ways to mutilate your enemies. - New mini bosses. Got to find them all! - Shields, but better. Shields now have improved stats based on their manufacturer, and boast greatly improved (and some new) special effects. - Introducing the Manly Shield line, as designed by Jakob's. Experience the feeling of bullets entering your flesh, without the searing pain. Jakob's Manly shields have no capacity, but boost your maximum health, and health regeneration. - … and much, much more. Check out the full BL2:Exodus changelog here",
+      "download_url": "https://www.nexusmods.com/borderlands2/mods/257?tab=files&file_id=1192",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/BL2Exodus.md"
+    },
+    {
+      "id": "blimgui",
+      "name": "blimgui",
+      "author": "Unknown",
+      "version": "",
+      "description": "A library that allows modders to easily create and manage a separate window to develope GUI mods.",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/blimgui.md"
     },
     {
       "id": "BoostedTPSCharacters",
       "name": "BoostedTPSCharacters",
       "author": "Unknown",
-      "version": "0.0.0",
+      "version": "",
       "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/BoostedTPSCharacters.md"
     },
     {
       "id": "BorderlandsRewind",
       "name": "Borderlands Rewind",
       "author": "Justin99",
       "version": "1.0",
-      "description": "",
+      "description": "Provides options to enable: - Weapon merging - Weapon skill stacking (e.g. infinite ammo, Evil Smasher buffs) - Full amp damage on every pellet",
       "download_url": "https://github.com/Justin99x/bl-sdk-mods/raw/main/BorderlandsRewind/BorderlandsRewind.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [
         "UserFeedback>=1.6"
       ],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/BorderlandsRewind.md"
     },
     {
       "id": "Bossbar",
       "name": "Bossbar",
       "author": "juso",
       "version": "1.1",
-      "description": "",
+      "description": "Adds a Boss-/Health-bar to most named enemies.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/bossbar/bossbar.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/Bossbar.md"
     },
     {
       "id": "CanvasLIB",
       "name": "CanvasLIB",
       "author": "juso",
       "version": "1.1",
-      "description": "",
+      "description": "A library for easy writing to the screen with different fonts and alignments.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/canvaslib/canvaslib.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [
         "Coroutines>=1.1"
       ],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/CanvasLIB.md"
     },
     {
       "id": "ChangeUtil",
       "name": "Change Util",
       "author": "Milo",
       "version": "0.1",
-      "description": "",
+      "description": "Simplifies the process of modifying Unreal Engine objects, and tracks changes so that they can be reverted later.",
       "download_url": "https://github.com/ncalvin1/Milo-BL2-SDK-Mods/raw/refs/heads/main/ChangeUtil/ChangeUtil_v0.1.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/ChangeUtil.md"
     },
     {
       "id": "Chronos",
       "name": "Chronos",
       "author": "juso",
       "version": "1.0",
-      "description": "",
+      "description": "A replacement for the Skullmasher. - Slows down time while scoping. - Randomizes the weapons skin after scoping in with the weapon equipped.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/blob/master/Chronos/__init__.py",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/Chronos.md"
     },
     {
       "id": "CleaningUpPandora",
       "name": "Cleaning Up Pandora",
       "author": "Deceptix_",
       "version": "1.1",
-      "description": "",
+      "description": "Adds the ability to sell items that are on the floor or in your backpack by pressing the 'Secondary Use' key.",
       "download_url": "https://github.com/Decept1x/Borderlands-Cleaning-Up-Pandora/releases/tag/1.1",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/CleaningUpPandora.md"
     },
     {
       "id": "CollisionVisualizer",
       "name": "Collision Visualizer",
       "author": "None",
       "version": "0.1.0",
-      "description": "",
+      "description": "Visualizes invisible blocking/killing collision volumes and allows hiding meshes with no collision.",
       "download_url": "https://github.com/NoneGiven/bl-sdk-mods/raw/main/CollisionVisualizer/CollisionVisualizer.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/CollisionVisualizer.md"
     },
     {
       "id": "ComboCounter",
       "name": "ComboCounter",
       "author": "Juso, Sartick",
       "version": "1.0",
-      "description": "",
+      "description": "Kills are now counted towards a killstreak on screen, awarding more XP the higher your kill count goes ! XP multiplication currently capped after 15 kills to prevent ridiculous XP gains",
       "download_url": "https://github.com/Sartick/bl-sdk-mods/blob/main/ComboCounter/ComboCounter.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/ComboCounter.md"
+    },
+    {
+      "id": "command_extensions",
+      "name": "command_extensions",
+      "author": "Unknown",
+      "version": "",
+      "description": "Adds a few new console commands, and provides functionality for other mods to do the same. All these commands are fully compatible with blcmm files, you can just put them in your mod and have users merge it with other files and enable/disable various categories and it all just keeps working fine.",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/command_extensions.md"
     },
     {
       "id": "Commander",
       "name": "Commander",
       "author": "Unknown",
-      "version": "0.0.0",
+      "version": "",
       "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/Commander.md"
     },
     {
       "id": "ConfigurableViewModelCVM",
       "name": "ConfigurableViewModel (CVM)",
       "author": "juso",
       "version": "2.1",
-      "description": "",
+      "description": "A mod that allows you to change the viewmodel of any WeaponType. To change your viewmodel go ingame, ``Escape``-&gt;``Mods``-&gt;``CVM``",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/ConfigurableViewmodel/ConfigurableViewmodel.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/ConfigurableViewModelCVM.md"
     },
     {
       "id": "ConsistentTime",
       "name": "ConsistentTime",
       "author": "Unknown",
-      "version": "0.0.0",
+      "version": "",
       "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/ConsistentTime.md"
     },
     {
       "id": "ConsoleFontSize",
       "name": "Console Font Size",
-      "author": "ZetaD\u00e6mon",
+      "author": "ZetaD\\xE6mon",
       "version": "1.0",
-      "description": "",
+      "description": "Gives a slider in the mod settings to adjust the console font size.",
       "download_url": "https://github.com/ZetaDaemon/bl-sdk-mods/raw/main/ConsoleFontSize/ConsoleFontSize.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/ConsoleFontSize.md"
     },
     {
       "id": "Constructor",
       "name": "Constructor",
       "author": "juso",
       "version": "1.2.0",
-      "description": "",
+      "description": "PythonSDK Mod/Ressource that allows the easy creation and use of new non replacing Objects.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/Constructor/Constructor.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/Constructor.md"
     },
     {
       "id": "Coroutines",
       "name": "Coroutines",
       "author": "Unknown",
-      "version": "0.0.0",
+      "version": "",
       "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/Coroutines.md"
     },
     {
       "id": "CrossClassSkillRandomizer",
       "name": "Cross Class Skill Randomizer",
       "author": "Abahbob",
       "version": "1.2",
-      "description": "",
+      "description": "Randomize all the skills!",
       "download_url": "https://github.com/bl-sdk/former-default-mods/raw/master/SkillRandomizer/SkillRandomizer.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/CrossClassSkillRandomizer.md"
     },
     {
       "id": "CustomScopedSensitivity",
       "name": "Custom Scoped Sensitivity",
       "author": "Deceptix_",
       "version": "1.0",
-      "description": "",
+      "description": "Adds custom ADS sensitivity multiplier sliders for each sniper sight.",
       "download_url": "https://github.com/Decept1x/Borderlands-Custom-Scoped-Sensitivity/releases/tag/1.0",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/CustomScopedSensitivity.md"
     },
     {
       "id": "CustomSkins",
       "name": "Custom Skins",
       "author": "FromDarkHell",
       "version": "1.0",
-      "description": "",
+      "description": "A simple mod allowing you to have custom character skins, all selectable! - Hit R in the mod menu to reload your skins - Press O to open your skin folder Toggle skins in the Options menu, sorted by character",
       "download_url": "https://github.com/FromDarkHell/bl-sdk-mods/blob/main/CustomSkins/CustomSkins.zip?raw=true",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/CustomSkins.md"
     },
     {
       "id": "DeathTrapMemoryProgram",
       "name": "Death Trap Memory Program",
       "author": "Lengyu",
       "version": "1.4",
-      "description": "",
+      "description": "Memory program for Death Trap. You can press the keybind(default: 6) to save the data of your equipped shield. Death Trap will always copy the shield you saved if it is in your backpack. The Memory is persistent. To erase the memory, you could remove your shield and press the keybind again. It works in multiplayer game when both the server player and the client player have enabled this mod.",
       "download_url": "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/DeathTrapMemory/DeathTrapMemory.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [
         "UserFeedback>=1.6"
       ],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/DeathTrapMemoryProgram.md"
     },
     {
       "id": "DeathtrapShield",
       "name": "Deathtrap Shield",
       "author": "Relentless",
       "version": "1.1.1",
-      "description": "",
+      "description": "Gives Deathtrap its own configurable shield from the inventory of Gaige.",
       "download_url": "https://github.com/DAmNRelentless/bl2-deathtrapshield/releases/tag/v1.1.1",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [
         "EridiumLib>=0.4.2"
       ],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/DeathtrapShield.md"
+    },
+    {
+      "id": "decent_console",
+      "name": "decent_console",
+      "author": "Unknown",
+      "version": "",
+      "description": "",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/decent_console.md"
+    },
+    {
+      "id": "dialog_skipper",
+      "name": "dialog_skipper",
+      "author": "Unknown",
+      "version": "",
+      "description": "",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/dialog_skipper.md"
     },
     {
       "id": "DialogRandomizer",
       "name": "Dialog Randomizer",
       "author": "juso",
       "version": "2.1",
-      "description": "",
+      "description": "If it talks, it gets randomized. DLC dialogs are only loaded while in the DLC, therefore they can only be played/randomized inside the DLC.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/dialograndomizer/dialograndomizer.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/DialogRandomizer.md"
     },
     {
       "id": "DifficultyModes",
       "name": "Difficulty Modes",
-      "author": "ZetaD\u00e6mon",
+      "author": "ZetaD\\xE6mon",
       "version": "1.0",
-      "description": "",
+      "description": "Replaces BAR with a difficulty mode that can be changed in the options.",
       "download_url": "https://github.com/ZetaDaemon/bl-sdk-mods/raw/main/DifficultyModes/DifficultyModes.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [
         "Structs>=1.0",
         "Enums>=1.1"
       ],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/DifficultyModes.md"
     },
     {
       "id": "DropChanceMultiplier",
       "name": "DropChanceMultiplier",
       "author": "juso",
       "version": "2.0",
-      "description": "",
+      "description": "Increase the times enemies drop loot from their pool. You can easily change the amount of rolls from the pool from the ingame menues.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/DropChanceMultiplier/DropChanceMultiplier.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/DropChanceMultiplier.md"
     },
     {
       "id": "DualBinds",
       "name": "Dual Binds",
       "author": "RedxYeti",
       "version": "1.0",
-      "description": "",
+      "description": "This mod will allow you to have keys do multiple things. I highly suggest you read the readme and check out the example ini on github.",
       "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/tree/main/DualBinds",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/DualBinds.md"
     },
     {
       "id": "EarlySkillPoints",
       "name": "EarlySkillPoints",
       "author": "Unknown",
-      "version": "0.0.0",
+      "version": "",
       "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/EarlySkillPoints.md"
     },
     {
       "id": "EasyReadOnly",
       "name": "Easy Read Only",
       "author": "FromDarkHell",
       "version": "1.0",
-      "description": "",
+      "description": "Toggle Read Only on a button press",
       "download_url": "https://github.com/bl-sdk/former-default-mods/raw/master/ReadOnly/ReadOnly.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/EasyReadOnly.md"
     },
     {
       "id": "EffectRandomizer",
       "name": "Effect Randomizer",
       "author": "Milo",
       "version": "0.1",
-      "description": "",
+      "description": "Changes subtle aspects of most game items, so they no longer behave completely as expected.",
       "download_url": "https://github.com/ncalvin1/Milo-BL2-SDK-Mods/raw/refs/heads/main/EffectRandomizer/EffectRandomizer_v0.1.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [
         "Change Util>=0.1"
       ],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/EffectRandomizer.md"
     },
     {
       "id": "Emotes",
       "name": "Emotes",
       "author": "juso",
       "version": "1.0",
-      "description": "",
+      "description": "Adds a list of different emotes. Check ``Modded Keybinds`` to configure the mod.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/Emotes/Emotes.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/Emotes.md"
     },
     {
       "id": "EndActionSkillKey",
       "name": "End Action Skill Key",
       "author": "RedxYeti",
       "version": "1.0",
-      "description": "",
+      "description": "Adds a hotkey to force end your action skill. Most useful on Krieg and Sal.",
       "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/EndActionSkillKey/EndActionSkillKey.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/EndActionSkillKey.md"
+    },
+    {
+      "id": "enemy_level_randomizer",
+      "name": "enemy_level_randomizer",
+      "author": "Unknown",
+      "version": "",
+      "description": "",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/enemy_level_randomizer.md"
     },
     {
       "id": "Enums",
       "name": "Enums",
       "author": "apple1417",
       "version": "1.1",
-      "description": "",
+      "description": "Imports all Unrealscript enums into Python.",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/raw/master/.legacy/Enums.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/Enums.md"
+    },
+    {
+      "id": "equip_locker",
+      "name": "equip_locker",
+      "author": "Unknown",
+      "version": "",
+      "description": "Adds various options that prevent you from equipping certain types of items/weapons.",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/equip_locker.md"
     },
     {
       "id": "EridiumLib",
       "name": "EridiumLib",
       "author": "Chronophylos and Relentless",
       "version": "0.4.2",
-      "description": "",
+      "description": "Holds utility functions for some mods.",
       "download_url": "https://github.com/DAmNRelentless/bl2-eridiumlib/releases/tag/v0.4.2",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU Lesser General Public License v2.1', 'url: https://github.com/DAmNRelentless/bl2-eridiumlib/blob/main/LICENSE']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/EridiumLib.md"
     },
     {
       "id": "ExpAdjuster",
       "name": "Exp Adjuster",
       "author": "plu5",
       "version": "1.0.0 2021-04-05",
-      "description": "",
+      "description": "Adds sliders to adjust XP amounts: - baserates for each mode, - as well as multipliers based on level difference from killed enemies.",
       "download_url": "https://github.com/plu5/p-borderlands/releases/latest",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "FPSSlider",
-      "name": "FPS Slider",
-      "author": "juso",
-      "version": "1.0",
-      "description": "",
-      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/fpsslider/fpsslider.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/ExpAdjuster.md"
     },
     {
       "id": "FarmCounter",
       "name": "Farm Counter",
-      "author": "ZetaD\u00e6mon",
+      "author": "ZetaD\\xE6mon",
       "version": "1.1",
-      "description": "",
+      "description": "Adds a customiseable farm counter to keep track of your runs.",
       "download_url": "https://github.com/ZetaDaemon/bl-sdk-mods/raw/main/FarmCounter/FarmCounter.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [
         "UserFeedback>=1.5"
       ],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/FarmCounter.md"
+    },
+    {
+      "id": "find_actors",
+      "name": "find_actors",
+      "author": "Unknown",
+      "version": "",
+      "description": "Small library for finding actors near the player or other objects.",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/find_actors.md"
     },
     {
       "id": "FiringFix",
       "name": "FiringFix",
       "author": "Unknown",
-      "version": "0.0.0",
+      "version": "",
       "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/FiringFix.md"
     },
     {
       "id": "FirstPersonDriver",
       "name": "FirstPersonDriver",
       "author": "juso",
       "version": "2.0",
-      "description": "",
+      "description": "Drive the Vehicles from first person perspective. Adds a keybind to toggle between 1st and 3rd person. You can change the keybinds in ``Modded Keybinds`` menu.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/FirstPersonDriver/FirstPersonDriver.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/FirstPersonDriver.md"
+    },
+    {
+      "id": "FPSSlider",
+      "name": "FPS Slider",
+      "author": "juso",
+      "version": "1.0",
+      "description": "Adds custom sliders to the game that allows you to easily change the games target min and max FPS values.",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/fpsslider/fpsslider.zip",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/FPSSlider.md"
     },
     {
       "id": "GameScaler",
       "name": "Game Scaler",
       "author": "Rossay",
       "version": "2.1",
-      "description": "",
+      "description": "Scales all zones in Normal Mode and True Vault Hunter Mode to your level, and removes the level cap for TVHM scaling in BL2 and TPS. In BL2 and TPS, Normal Mode level cap is 35, TVHM minimum level is 30. In AoDK, Normal Mode level cap is 18 and TVHM minimum level is 17.",
       "download_url": "https://github.com/Rossays/BL-SDK-Mods/raw/main/Game%20Scaler/GameScaler.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/GameScaler.md"
     },
     {
       "id": "GearRandomiser",
       "name": "Gear Randomiser",
-      "author": "ZetaD\u00e6mon",
+      "author": "ZetaD\\xE6mon",
       "version": "1.0",
-      "description": "",
+      "description": "Randomises all gear in the game. Adds options to additionally choose which character class mods will be locked to as well as a chaos mode which removes restrictions for weapons as to which parts spawn where on a gun. Does not change how loot is obtained or enemy drops so it is highly suggested to also use a mod like Cold Dead Hands. Also works with mods that add new gear to the game, you will just need to update parts for the randomiser in the mod enable window after running the other mod. If progess is stuck due to weapon randomisation there is a backup button to re-randomise all weapons not belonging to the player.",
       "download_url": "https://github.com/ZetaDaemon/bl-sdk-mods/raw/main/GearRandomiser/GearRandomiser.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [
         "Structs>=1.0",
         "Sanity Saver>=2.2"
       ],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/GearRandomiser.md"
     },
     {
       "id": "GrenadeJumpKey",
       "name": "GrenadeJumpKey",
       "author": "Unknown",
-      "version": "0.0.0",
+      "version": "",
       "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/GrenadeJumpKey.md"
     },
     {
       "id": "GrenadeModQuickSwitcher",
       "name": "GrenadeModQuickSwitcher",
       "author": "Unknown",
-      "version": "0.0.0",
+      "version": "",
       "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/GrenadeModQuickSwitcher.md"
+    },
+    {
+      "id": "hide_undiscovered_missions",
+      "name": "hide_undiscovered_missions",
+      "author": "Unknown",
+      "version": "",
+      "description": "",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/hide_undiscovered_missions.md"
     },
     {
       "id": "HitSounds",
       "name": "HitSounds",
       "author": "juso",
       "version": "1.0",
-      "description": "",
+      "description": "- Plays a sound on hit. - Spawns confetti on critical hit.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/blob/master/HitSounds/__init__.py",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/HitSounds.md"
+    },
+    {
+      "id": "inventory_editor",
+      "name": "inventory_editor",
+      "author": "Unknown",
+      "version": "",
+      "description": "",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/inventory_editor.md"
     },
     {
       "id": "ItemLevelUncapper",
       "name": "Item Level Uncapper",
       "author": "apple1417",
       "version": "1.3",
-      "description": "",
+      "description": "This mod is useless by itself, it should be used alongside the hexedit to increase the player level cap.",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/raw/master/.legacy/ItemLevelUncapper.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/ItemLevelUncapper.md"
     },
     {
       "id": "ItemLights",
       "name": "ItemLights",
       "author": "Unknown",
-      "version": "0.0.0",
+      "version": "",
       "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/ItemLights.md"
     },
     {
       "id": "JumpToLevelChallenges",
       "name": "JumpToLevelChallenges",
       "author": "Unknown",
-      "version": "0.0.0",
+      "version": "",
       "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/JumpToLevelChallenges.md"
     },
     {
       "id": "KeepAnarchy",
       "name": "KeepAnarchy",
       "author": "Sampletext282",
       "version": "0.9",
-      "description": "",
+      "description": "Let's you keep your Anarchy stacks. By default you will keep 50% of your stacks, this can be changed in the mods options. Only works on Host in Coop!",
       "download_url": "https://github.com/Sampletext282/bl2-mods/blob/main/KeepAnarchy/KeepAnarchy.zip?raw=true",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/KeepAnarchy.md"
     },
     {
       "id": "KeyboardChange",
       "name": "Keyboard Change",
       "author": "Ceiyne",
       "version": "0.1.1",
-      "description": "",
+      "description": "BL2 and TPS do not handle certain keys (such as Esc and Tab) properly when some keyboard layouts are in use (for example, the Japanese IME).  This mod changes the keyboard to English (United States) at start-up so you don't have to remember to change it yourself every time.",
       "download_url": "https://gitlab.com/Ceiyne/borderlands-mods/-/raw/main/Keyboard%20Change/KBChange.zip?inline=false",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/KeyboardChange.md"
     },
     {
       "id": "LengyuCopyDevice",
       "name": "Lengyu Copy Device",
       "author": "Lengyu",
       "version": "1.0",
-      "description": "",
+      "description": "Allows you to spend money to copy the selected equipment. Press the keybind 'UseSecondary' on the Equipment page or Backpack page to throw and copy the selected equipment. It costs the selling price of the equipment. It works in multiplayer game when both the server player and the client player have enabled this mod.",
       "download_url": "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/LengyuCopyDevice/LengyuCopyDevice.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/LengyuCopyDevice.md"
     },
     {
       "id": "LengyuTPDevice",
       "name": "Lengyu TP Device",
       "author": "Lengyu",
       "version": "1.3",
-      "description": "",
+      "description": "Allows you to teleport yourself anywhere you marked. 1.Press NUMPad0 to mark the location. 2.Press NUMPadDot to teleport. 3.Press NUMPad1-3 to switch within 3 slots. 4.Press NUMPad4-6 to teleport other player to you. 5.Open the option to print teleport console command when you mark location. It works in mutiplayer games. It doesn't work in the map Digistruct Peak.",
       "download_url": "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/LengyuTPDevice/LengyuTPDevice.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [
         "UserFeedback>=1.6"
       ],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/LengyuTPDevice.md"
     },
     {
       "id": "LessDOTScreams",
       "name": "LessDOTScreams",
       "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "version": "",
+      "description": "Options to disable DOT (status effect) screams, or only to play when shield is broken.",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/LessDOTScreams.md"
     },
     {
       "id": "LilithPatch",
       "name": "Lilith Patch",
       "author": "Milo",
       "version": "0.1",
-      "description": "",
+      "description": "Modifies the action skill of 55tumbl's excellent Lilith mod to work more like BL1 Lilith's Phasewalk.  You no longer need a target in the crosshairs.",
       "download_url": "https://github.com/ncalvin1/Milo-BL2-SDK-Mods/raw/refs/heads/main/LilithPatch/LilithPatch_v0.1.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/LilithPatch.md"
     },
     {
       "id": "LiveFeed",
       "name": "Live Feed",
       "author": "mopioid",
       "version": "1.2",
-      "description": "",
+      "description": "Provides access to continuously up-to-date information about the current game, for chatbots and other applications.",
       "download_url": "https://github.com/mopioid/Borderlands-Live-Feed/releases/tag/1.2",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/LiveFeed.md"
     },
     {
       "id": "LootCollector",
       "name": "Loot Collector",
       "author": "Lengyu",
       "version": "1.4",
-      "description": "",
+      "description": "Help you collect loot conveniently. 1.Press / to teleport all loot to you. These loot will form a circle around you and be sorted by rarity level. 2.Press - (on keypad) to delete all white and green loot. 3.Press Delete to delete all loot. (CAUTION) Mission Items and ECHO will be excluded. It works in mutiplayer games. <img height='360' src='https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/LootCollector/LootCollector.jpg' width='640'>",
       "download_url": "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/LootCollector/LootCollector.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/LootCollector.md"
     },
     {
       "id": "LootCollision",
       "name": "Loot Collision",
       "author": "RedxYeti",
       "version": "1.0",
-      "description": "",
+      "description": "Disables loot collision with dead bodies and other loot. No more loot going to outer space (or further).",
       "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/LootCollision/LootCollision.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/LootCollision.md"
     },
     {
       "id": "LootMarker",
       "name": "LootMarker",
       "author": "juso",
       "version": "1.4",
-      "description": "",
+      "description": "Places a marker on the map and minimap for every legendary or better. Currently supports Exodus and UPC/Vanilla for both, TPS and BL2. You can change the marker type, optionally enable a sound (and choose out of a predefined list) to be played when a legendary got dropped.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/LootMarker/LootMarker.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/LootMarker.md"
     },
     {
       "id": "LootNotificator",
       "name": "LootNotificator",
       "author": "juso",
       "version": "2.1",
-      "description": "",
+      "description": "Plays special Particles and sounds depending on the loot rarity. Supports Reborn and Exodus (non SDK version).",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/LootNotificator/LootNotificator.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/LootNotificator.md"
     },
     {
       "id": "LootRandomizer",
       "name": "Loot Randomizer",
       "author": "mopioid",
       "version": "1.5.5",
-      "description": "",
+      "description": "Loot Randomizer is a mod for Borderlands 2 and The Pre-Sequel that provides repeated new playthrough experiences, by means of shuffling every item in the game into new drop locations.",
       "download_url": "https://github.com/mopioid/Borderlands-Loot-Randomizer/releases",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/LootRandomizer.md"
     },
     {
       "id": "MapLoader",
       "name": "MapLoader",
       "author": "juso",
       "version": "1.4.3",
-      "description": "",
+      "description": "Allows the use of custom map files created by the MapEditor. To add/remove a custom map simply place/remove the .json map file into/from the  directory. Each map file has its own Options/Mods entry that you can either enable or disable. Because loading in and creating hundreds of new objects takes time, this mod will increase your Loading screen times. If you absolutely can't live with ~4 additional seconds of Loading, check out the Options&gt;Mod Menu. This mod comes with an optional ``Threaded Loading`` option. Enabling this option will remove any additional loading screen time,instead the custom map changes will load in over time.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/MapLoader/MapLoader.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/MapLoader.md"
     },
     {
       "id": "MapReloader",
       "name": "Map Reloader",
       "author": "FromDarkHell",
       "version": "1.1",
-      "description": "",
+      "description": "Quickly farm items and save quit at a button press!",
       "download_url": "https://github.com/bl-sdk/former-default-mods/raw/master/Quickload/Quickload.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/MapReloader.md"
+    },
+    {
+      "id": "mario",
+      "name": "mario",
+      "author": "Unknown",
+      "version": "",
+      "description": "",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/mario.md"
+    },
+    {
+      "id": "mateditor",
+      "name": "mateditor",
+      "author": "Unknown",
+      "version": "",
+      "description": "",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/mateditor.md"
     },
     {
       "id": "MeleeEnhancement",
       "name": "Melee Enhancement",
       "author": "LaryIsland",
       "version": "1.0",
-      "description": "",
+      "description": "A few tweaks to Zer0 and Krieg to enhance their melee gameplay",
       "download_url": "https://github.com/LaryIsland/bl-sdk-mods/raw/main/MeleeEnhancement/MeleeEnhancement.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [
         "Structs>=1.1"
       ],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/MeleeEnhancement.md"
     },
     {
       "id": "MissionQuickswitcher",
       "name": "MissionQuickswitcher",
       "author": "juso",
       "version": "1.0",
-      "description": "",
+      "description": "Adds two keybinds to the game that allow you to quickly switch between missions without having to open the mission menu.",
       "download_url": "https://raw.githubusercontent.com/juso40/bl2sdk_Mods/master/MissionQuickswitcher/MissionQuickswitcher.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/MissionQuickswitcher.md"
     },
     {
       "id": "MissionSelector",
       "name": "Mission Selector",
       "author": "Chronophylos and Relentless",
       "version": "1.3.2",
-      "description": "",
+      "description": "Lets you switch through missions with configurable hotkeys like in Borderlands 3.",
       "download_url": "https://github.com/DAmNRelentless/bl2-missionselector/releases/tag/v1.3.2",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [
         "EridiumLib>=0.4.2"
       ],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/MissionSelector.md"
     },
     {
       "id": "MovementTech",
       "name": "Movement Tech",
-      "author": "ZetaD\u00e6mon",
+      "author": "ZetaD\\xE6mon",
       "version": "1.2",
-      "description": "",
+      "description": "Allows for double jumps and slamming in BL2. Now with multiplayer support!",
       "download_url": "https://github.com/ZetaDaemon/bl-sdk-mods/raw/main/MovementTech/MovementTech.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [
         "Enums>=1.0"
       ],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/MovementTech.md"
     },
     {
       "id": "MyFavorite",
       "name": "My Favorite",
       "author": "Milo",
       "version": "0.1",
-      "description": "",
+      "description": "Prevents selling or dropping starred items.",
       "download_url": "https://github.com/ncalvin1/Milo-BL2-SDK-Mods/raw/refs/heads/main/MyFavoriteMod/MyFavoriteMod_v0.1.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "NPCRevives",
-      "name": "NPCRevives",
-      "author": "juso",
-      "version": "1.1",
-      "description": "",
-      "download_url": "https://raw.githubusercontent.com/juso40/bl2sdk_Mods/master/NPCRevives/NPCRevives.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/MyFavorite.md"
     },
     {
       "id": "NewWeaponOnKill",
       "name": "New Weapon On Kill",
       "author": "RedxYeti",
       "version": "1.0",
-      "description": "",
+      "description": "After getting in game you'll want to enable the mod and choose your options. Also you can set up a hotkey to change weapons.",
       "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/NewWeaponOnKill/NewWeaponOnKill.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/NewWeaponOnKill.md"
+    },
+    {
+      "id": "no_ads",
+      "name": "no_ads",
+      "author": "Unknown",
+      "version": "",
+      "description": "",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/no_ads.md"
+    },
+    {
+      "id": "nocap",
+      "name": "nocap",
+      "author": "Unknown",
+      "version": "",
+      "description": "Extends team limits and functionality for 5+ player lobbies. Only required on host, clients can join with or without mod installed.",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/nocap.md"
     },
     {
       "id": "NoCrosshair",
       "name": "NoCrosshair",
       "author": "juso",
       "version": "1.1",
-      "description": "",
+      "description": "Disables your Crosshair. If you have the ``coroutines`` and ``canvaslib`` libraries installed, you may enable a static square crosshair in the center of the screen. This static square can further be customized in the mods settings menu.",
       "download_url": "https://raw.githubusercontent.com/juso40/bl2sdk_Mods/master/NoCrosshair/NoCrosshair.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/NoCrosshair.md"
     },
     {
       "id": "NoTextureFade",
       "name": "NoTextureFade",
       "author": "Unknown",
-      "version": "0.0.0",
+      "version": "",
       "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/NoTextureFade.md"
+    },
+    {
+      "id": "NPCRevives",
+      "name": "NPCRevives",
+      "author": "juso",
+      "version": "1.1",
+      "description": "Friendly NPCs will attempt to revive you.",
+      "download_url": "https://raw.githubusercontent.com/juso40/bl2sdk_Mods/master/NPCRevives/NPCRevives.zip",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/NPCRevives.md"
     },
     {
       "id": "ObjectRelocator",
       "name": "ObjectRelocator",
       "author": "Unknown",
-      "version": "0.0.0",
+      "version": "",
       "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/ObjectRelocator.md"
+    },
+    {
+      "id": "offline_helpers",
+      "name": "offline_helpers",
+      "author": "Unknown",
+      "version": "",
+      "description": "",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/offline_helpers.md"
+    },
+    {
+      "id": "ohko",
+      "name": "ohko",
+      "author": "Unknown",
+      "version": "",
+      "description": "",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/ohko.md"
     },
     {
       "id": "Onezerker",
       "name": "Onezerker",
       "author": "apple1417",
       "version": "1.8",
-      "description": "",
+      "description": "Ever felt gunzerking with two different guns was too complicated? No? Well too bad. Makes you gunzerk with two copies of the same gun instead of two different ones.",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/raw/master/.legacy/Onezerker.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/Onezerker.md"
     },
     {
       "id": "OpenSanctuaryDoors",
       "name": "OpenSanctuaryDoors",
       "author": "Unknown",
-      "version": "0.0.0",
+      "version": "",
       "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/OpenSanctuaryDoors.md"
     },
     {
       "id": "OpenSesame",
       "name": "Open Sesame",
       "author": "Zazk0u",
       "version": "1.1",
-      "description": "",
+      "description": "It allows you to open chests and containers by damaging them. Currently, does not allow chests and containers that cost currencies.",
       "download_url": "https://github.com/Zazk0u/bl-sdk-mods/blob/main/OpenSesame/OpenSesame.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/OpenSesame.md"
     },
     {
       "id": "OptionalObjectivesReward",
       "name": "OptionalObjectivesReward",
       "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "version": "",
+      "description": "Automatically rewards **ALL** optional objectives in Borderlands 2 and The Pre-Sequel with configurable rewards that scale by playthrough difficulty.",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/OptionalObjectivesReward.md"
+    },
+    {
+      "id": "paintball",
+      "name": "paintball",
+      "author": "Unknown",
+      "version": "",
+      "description": "",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/paintball.md"
     },
     {
       "id": "Photomode",
       "name": "Photomode",
       "author": "Unknown",
-      "version": "0.0.0",
+      "version": "",
       "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/Photomode.md"
     },
     {
       "id": "PickupAsTrash",
       "name": "PickupAsTrash",
       "author": "Tominator",
       "version": "1.0.1",
-      "description": "",
+      "description": "Adds an option to pickup items from the ground as trash. You can use your Secondary Use (default Q) on item on the ground to pick it up. Such items will be automatically marked as trash, so you can sell it at a vendor faster. There is a built-in setting to disable the tooltip.",
       "download_url": "https://github.com/tominator1pl/bl-sdk-mods/raw/main/PickupAsTrash/PickupAsTrash.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [
         "Enums>=1.0",
         "Structs>=1.0"
       ],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/PickupAsTrash.md"
     },
     {
       "id": "PickupMessage",
       "name": "Pickup Message",
       "author": "juso",
       "version": "1.1",
-      "description": "",
+      "description": "Shows a message with the item you just picked up.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/PickupMessages/PickupMessages.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [
         "Coroutines>=1.1"
       ],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/PickupMessage.md"
+    },
+    {
+      "id": "ping",
+      "name": "ping",
+      "author": "Unknown",
+      "version": "",
+      "description": "",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/ping.md"
     },
     {
       "id": "PizzaForFastball",
       "name": "PizzaForFastball",
       "author": "juso",
       "version": "1.0",
-      "description": "",
+      "description": "Replaces the Fastballs mesh with the one of a Pizza.",
       "download_url": "https://raw.githubusercontent.com/juso40/bl2sdk_Mods/master/PizzaForFastball/__init__.py",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/PizzaForFastball.md"
     },
     {
       "id": "PlayerRandomizer",
       "name": "Player Randomizer",
       "author": "Milo",
       "version": "0.2",
-      "description": "",
+      "description": "Fills a player's trees with random skills, and updates class mods to boost skills from the new set.",
       "download_url": "https://github.com/ncalvin1/Milo-BL2-SDK-Mods/raw/refs/heads/main/PlayerRandomizer/PlayerRandomizer_v0.2.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/PlayerRandomizer.md"
     },
     {
       "id": "Pokelands",
       "name": "Pokelands",
       "author": "juso",
       "version": "1.0",
-      "description": "",
+      "description": "1. Download: Pawn Grenade 2. Add the ``Pokelands.blcm`` to the ``PawnGrenade.blcm`` using BLCMM and let it overwrite anything it wants. 2b. Tick the ``Offline`` box in BLCMM to change the Hotfix method. For me the normal online one didn't work when tested. 2c. Save the changes, you may now close BLCMM. 3. Add the ``Nasty Suprise`` to your characters inventory, preferably with a low fuse. 4. In Game, first ``exec PawnGrenade.blcm``, then enable the Pokelands SDK mod. 5. Thats it.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/Pokelands/Pokelands.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/Pokelands.md"
     },
     {
       "id": "ProjectileRandomizer",
       "name": "ProjectileRandomizer",
       "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "version": "",
+      "description": "****WARNING: THIS MOD CAN HAVE LOTS OF FLASHING LIGHTS AND OFTEN IS VERY LOUD**** ****RECOMMNDED YOU HAVE YOUR VOLUME LOW****",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/ProjectileRandomizer.md"
     },
     {
       "id": "PythonPartNotifier",
       "name": "Python Part Notifier",
       "author": "apple1417",
       "version": "1.9",
-      "description": "",
+      "description": "Shows the parts making up all of your items and weapons on their cards. Yes this even includes Grenades, COMs, and Relics/Oz Kits. Has full mod support, so if a mod adds extra parts to a weapon or changes a part's mesh it will properly update. Unique part support is limited, they may just show the same as the base part with the same mesh.",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/raw/master/.legacy/PythonPartNotifier.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/PythonPartNotifier.md"
+    },
+    {
+      "id": "quick_startup",
+      "name": "quick_startup",
+      "author": "Unknown",
+      "version": "",
+      "description": "",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/quick_startup.md"
     },
     {
       "id": "QuietConsole",
       "name": "Quiet Console",
       "author": "RedxYeti",
       "version": "1.1",
-      "description": "",
+      "description": "Disables most things printed to console by Gearbox, leaving a nice clean console for logging.",
       "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/QuietConsole/QuietConsole.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/QuietConsole.md"
     },
     {
       "id": "ReignOfGiants",
       "name": "Reign Of Giants",
       "author": "mopioid",
       "version": "1.2",
-      "description": "",
+      "description": "It's a concept we all know and love: Rare enemy variants, like Loot Midgets and Tubbies. Reign Of Giants extends this to every enemy in the game.",
       "download_url": "https://github.com/mopioid/Borderlands-Reign-Of-Giants/releases/tag/1.2",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/ReignOfGiants.md"
     },
     {
       "id": "RespecHotKeyRHK",
       "name": "Respec HotKey (RHK)",
       "author": "Pyrex",
       "version": "1.0.0",
-      "description": "",
+      "description": "Respec skills from anywhere with a hotkey, still costs cash",
       "download_url": "https://github.com/PyrexBLJ/blsdk-mods/blob/main/RHK/RHK.rar",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/RespecHotKeyRHK.md"
     },
     {
       "id": "ReviveTimeModifier",
       "name": "Revive Time Modifier",
       "author": "RedxYeti",
       "version": "1.0",
-      "description": "",
+      "description": "Using the scroller in the options, choose your time in seconds for how long it takes to revive teammates. The options range from 0 to 10 seconds in 0.5 second increments.",
       "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/ReviveTimeModifier/ReviveTimeModifier.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/ReviveTimeModifier.md"
     },
     {
       "id": "RewardReroller",
       "name": "Reward Reroller",
-      "author": "ZetaD\u00e6mon",
+      "author": "ZetaD\\xE6mon",
       "version": "1.1",
-      "description": "",
+      "description": "Lets you reroll mission rewards at the cost of eridium. In multiplayer all players will be promted with the mission reward screen to reroll their own items.",
       "download_url": "https://github.com/ZetaDaemon/bl-sdk-mods/raw/main/RewardReroller/RewardReroller.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [
         "Enums>=1.0",
         "Structs>=1.1"
       ],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/RewardReroller.md"
     },
     {
       "id": "RogueLands",
       "name": "RogueLands",
       "author": "juso",
       "version": "1.3",
-      "description": "",
+      "description": "RogueLands is a mod that turns Borderlands into a Rogue-Lite game. This mod works similar to the 1life challenge, but with the twist, that when you die, you respawn at the start of the game with all your Exp. You will lose all your items, but you will keep your stats and skills. All progress with this mod will count towards the UVHM. You do not need to have it unlocked to play. Overpower Levels will also be ignored, it is recommended to create a new character for this mod! To complete the mod you must complete a set of challenges. (Check modded keybinds)",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/RogueLands/RogueLands.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [
         "UserFeedback>=1.5"
       ],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/RogueLands.md"
     },
     {
       "id": "RunCounter",
       "name": "Run Counter",
       "author": "Pyrex",
       "version": "1.0.8",
-      "description": "",
+      "description": "A Mod that tracks save quits and item drops of at least legendary rarity. Chat command control with .rc prefix allows you to create new tracked farms, load previously made farms and control what data is shown where at any given time. If you are looking for something to make obs overlays check out ZetaDæmon's Farm Counter",
       "download_url": "https://github.com/PyrexBLJ/blsdk-mods/blob/main/RunCounter/RunCounter1.0.8.rar",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/RunCounter.md"
     },
     {
       "id": "SanitySaver",
       "name": "Sanity Saver",
       "author": "apple1417",
       "version": "2.2",
-      "description": "",
+      "description": "Disables sanity check, and also saves items which don't serialize, which would have parts deleted even with it off.",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/raw/c631c70226fe05e0209c34cd4f4e489a0c7154ce/SanitySaver/SanitySaver.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/SanitySaver.md"
+    },
+    {
+      "id": "save_file_organizer",
+      "name": "save_file_organizer",
+      "author": "Unknown",
+      "version": "",
+      "description": "Users can name their BL2/TPS files anything they want that ends in the .sav extension. In addition, several utility features are included.",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/save_file_organizer.md"
     },
     {
       "id": "SavesBackuper",
       "name": "Saves Backuper",
       "author": "plu5",
       "version": "1.0.0 2021-04-21",
-      "description": "",
+      "description": "Back up the contents of your saves folder each time you launch the game. - You can set the number of backups that will be kept, to keep them below a certain threshold. - You can set which folder to back up and where to back up to.",
       "download_url": "https://github.com/plu5/p-borderlands/releases/latest",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [
         "UserFeedback>=1.5"
       ],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/SavesBackuper.md"
     },
     {
       "id": "ScaledTVHM",
       "name": "ScaledTVHM",
       "author": "juso",
       "version": "1.0",
-      "description": "",
+      "description": "Fixes the TVHM scaling for TTAoDK One Shot Adventure. Now everything will scale with the player level in TVHM.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/ScaledTVHM/ScaledTVHM.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/ScaledTVHM.md"
+    },
+    {
+      "id": "scaling_adjuster",
+      "name": "scaling_adjuster",
+      "author": "Unknown",
+      "version": "",
+      "description": "",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/scaling_adjuster.md"
     },
     {
       "id": "ShieldRechargeTimer",
       "name": "Shield Recharge Timer",
       "author": "LaryIsland",
       "version": "1.0",
-      "description": "",
+      "description": "Displays a configurable timer on your HUD that counts the seconds before your shield starts to recharge",
       "download_url": "https://github.com/LaryIsland/bl-sdk-mods/raw/main/ShieldRechargeTimer/ShieldRechargeTimer.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/ShieldRechargeTimer.md"
     },
     {
       "id": "ShopReseter",
       "name": "Shop Reseter",
       "author": "Lengyu",
       "version": "1.1",
-      "description": "",
+      "description": "Adds a keybind option to the game that allows you to reset any shop you last used immediately. By default the key is binded to F9. It works in mutiplayer games.",
       "download_url": "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/ShopReseter/ShopReseter.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/ShopReseter.md"
     },
     {
       "id": "SillyScales",
       "name": "Silly Scales",
       "author": "RedxYeti",
       "version": "1.0",
-      "description": "",
+      "description": "Randomizes Players, Enemies and Vehicles scale when they spawn. Players are randomized after dying as well. If you're playing single player I highly recommend using the Alternate player scale.",
       "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/SillyScales/SillyScales.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/SillyScales.md"
     },
     {
       "id": "SimpleChineseFix",
       "name": "Simple Chinese Fix",
       "author": "Lengyu",
       "version": "1.0",
-      "description": "",
+      "description": "Fix several inexplicably invalid Simple Chinese Language localization words. Lyuda = 鲁达 Minds Eye Skill = 灵犀之眼",
       "download_url": "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/SimpleChineseFix/SimpleChineseFix.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/SimpleChineseFix.md"
     },
     {
       "id": "SimpleZoom",
       "name": "SimpleZoom",
       "author": "juso",
       "version": "1.0.0",
-      "description": "",
+      "description": "Adds a keybind that allows you to zoom.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/SimpleZoom/SimpleZoom.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/SimpleZoom.md"
     },
     {
       "id": "SkillSaver",
       "name": "Skill Saver",
       "author": "FromDarkHell",
       "version": "1.0",
-      "description": "",
+      "description": "This mod gives you the ability to save your current skill build, then restore right back to it later. When in game, hit your `Manage Skill Layouts` bind (Default: F3) Then choose whether or not you want to save your current skill build, then type in your skill build's name! From here, you can then restore back to that build for your current character class",
       "download_url": "https://github.com/FromDarkHell/bl-sdk-mods/blob/main/SkillSaver/SkillSaver.zip?raw=true",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [
         "UserFeedback>=1.5"
       ],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/SkillSaver.md"
     },
     {
       "id": "SkillToggles",
       "name": "Skill Toggles",
       "author": "Relentless and Chronophylos",
       "version": "1.3.2",
-      "description": "",
+      "description": "Lets you deactivate Action Skills by holding a configurable hotkey.",
       "download_url": "https://github.com/DAmNRelentless/bl2-skilltoggles/releases/tag/v1.3.2",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [
         "EridiumLib>=0.4.2"
       ],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/SkillToggles.md"
     },
     {
       "id": "SkillTreeLoadouts",
       "name": "SkillTreeLoadouts",
       "author": "Unknown",
-      "version": "0.0.0",
+      "version": "",
       "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/SkillTreeLoadouts.md"
     },
     {
       "id": "SkinRandomizer",
       "name": "Skin Randomizer",
       "author": "Cael",
       "version": "1.2",
-      "description": "",
+      "description": "Features: -Press a button to select a random customization combination ---This selects a random head/skin for characters and random skin for both vehicles -Adds an option to unlock customization eligibility ---This allows maya heads to be used on zer0, vehicle skins can be character skins, etc. ver 1.1: added in the function to allow the ranomize key to be rebound ver 1.2: renamed hooked function for compatibility",
       "download_url": "https://github.com/Cae-l/bl-sdk-mods/raw/master/SkinRandomizer/SkinRandomizer.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/SkinRandomizer.md"
+    },
+    {
+      "id": "sliding",
+      "name": "sliding",
+      "author": "Unknown",
+      "version": "",
+      "description": "",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/sliding.md"
     },
     {
       "id": "SniperButton",
       "name": "SniperButton",
       "author": "Pyrex",
       "version": "1.0.3",
-      "description": "",
+      "description": "Automatically modifies ADS speed",
       "download_url": "https://github.com/PyrexBLJ/blsdk-mods/blob/main/SniperButton/SniperButton.rar",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/SniperButton.md"
     },
     {
       "id": "SodOffSkeletonMages",
       "name": "SodOffSkeletonMages",
       "author": "Unknown",
-      "version": "0.0.0",
+      "version": "",
       "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/SodOffSkeletonMages.md"
     },
     {
       "id": "SpareParts",
       "name": "Spare Parts",
       "author": "LaryIsland",
       "version": "1.6",
-      "description": "",
+      "description": "Allows you to salvage parts from items and attach them to other items. Just select an item from your backpack, hover over another item and press the 'salvage' hotkey. Default is [C] Note: the item you salvage parts from will be destroyed in the process.",
       "download_url": "https://github.com/LaryIsland/bl-sdk-mods/raw/main/SpareParts/SpareParts.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [
         "UserFeedback>=1.5",
         "Python Part Notifier>=1.9"
       ],
-      "incompatible_with": []
-    },
-    {
-      "id": "SprintAdjuster",
-      "name": "Sprint Adjuster",
-      "author": "plu5",
-      "version": "1.1.0 2021-05-17",
-      "description": "",
-      "download_url": "https://github.com/plu5/p-borderlands/releases/latest",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "SprintSetandForget",
-      "name": "Sprint Set-and-Forget",
-      "author": "Ceiyne",
-      "version": "1.0.0",
-      "description": "",
-      "download_url": "https://gitlab.com/Ceiyne/borderlands-mods/-/raw/main/Sprint%20Set-and-Forget/Sprint_Set-and-Forget.zip?inline=false",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "StorageManager",
-      "name": "Storage Manager",
-      "author": "Milo",
-      "version": "1.0",
-      "description": "",
-      "download_url": "https://github.com/ncalvin1/Milo-BL2-SDK-Mods/raw/refs/heads/main/StorageManager/StorageManager_v1.0.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "Structs",
-      "name": "Structs",
-      "author": "apple1417",
-      "version": "1.1",
-      "description": "",
-      "download_url": "https://github.com/apple1417/willow2-sdk-mods/raw/master/.legacy/Structs.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "SuperScreenshots",
-      "name": "Super Screenshots",
-      "author": "Pyrex",
-      "version": "1.0.0",
-      "description": "",
-      "download_url": "https://github.com/PyrexBLJ/blsdk-mods/blob/main/SuperScreenshots/SuperScreenshots.rar",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "TPSExodus",
-      "name": "TPS Exodus",
-      "author": "Exotek, juso",
-      "version": "1.0.3",
-      "description": "",
-      "download_url": "https://www.nexusmods.com/borderlandspresequel/mods/44?tab=files&file_id=101",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "TPSSkinFix",
-      "name": "TPS SkinFix",
-      "author": "juso",
-      "version": "1.0",
-      "description": "",
-      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/SkinFix/SkinFix.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "TPSStyleBHop",
-      "name": "TPSStyleBHop",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "ThrowWeaponThenPickup",
-      "name": "Throw Weapon Then Pickup",
-      "author": "Lengyu",
-      "version": "1.0",
-      "description": "",
-      "download_url": "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/ThrowWeaponThenPickup/ThrowWeaponThenPickup.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "TimeofDayChanger",
-      "name": "Time of Day Changer",
-      "author": "Snake",
-      "version": "1.0.1",
-      "description": "",
-      "download_url": "https://github.com/slserpent/bl-sdk-mods/raw/main/DayNight/DayNight.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "Trivia",
-      "name": "Trivia",
-      "author": "Pyrex",
-      "version": "1.0.2",
-      "description": "",
-      "download_url": "https://github.com/PyrexBLJ/blsdk-mods/blob/main/Trivia/Trivia.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [
-        "MapLoader>=1.4.3",
-        "UserFeedback>=1.6"
-      ],
-      "incompatible_with": []
-    },
-    {
-      "id": "UberPostProcessing",
-      "name": "Uber Post Processing",
-      "author": "juso",
-      "version": "1.2",
-      "description": "",
-      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/UberPostProcessing/UberPostProcessing.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "UltimateScavengerMod",
-      "name": "Ultimate Scavenger Mod",
-      "author": "RedxYeti",
-      "version": "1.5",
-      "description": "",
-      "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/UltimateScavengerMod/Ultimate%20Scavenger%20Mod.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "UnspecSkills",
-      "name": "Unspec Skills",
-      "author": "ZetaD\u00e6mon",
-      "version": "1.1",
-      "description": "",
-      "download_url": "https://github.com/ZetaDaemon/bl-sdk-mods/raw/main/UnspecSkills/UnspecSkills.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [
-        "Enums>=1.0"
-      ],
-      "incompatible_with": []
-    },
-    {
-      "id": "UserFeedback",
-      "name": "UserFeedback",
-      "author": "apple1417",
-      "version": "1.6",
-      "description": "",
-      "download_url": "https://github.com/apple1417/willow2-sdk-mods/raw/master/.legacy/UserFeedback.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "VisualTriggers",
-      "name": "Visual Triggers",
-      "author": "GameChanger97",
-      "version": "1.0",
-      "description": "",
-      "download_url": "https://github.com/GameChanger97/Bl2-Mods/blob/main/VisualTriggers/VisualTriggers.zip?raw=true",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "WeaponDebug",
-      "name": "Weapon Debug",
-      "author": "Snake",
-      "version": "1.0.1",
-      "description": "",
-      "download_url": "https://github.com/slserpent/bl-sdk-mods/raw/main/WeaponDebug/WeaponDebug.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [
-        "Enums>=1.0"
-      ],
-      "incompatible_with": []
-    },
-    {
-      "id": "WeaponProf",
-      "name": "WeaponProf",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "WeaponQuickSwitcher",
-      "name": "Weapon Quick Switcher",
-      "author": "Lengyu",
-      "version": "1.1",
-      "description": "",
-      "download_url": "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/WeaponQuickSwitcher/WeaponQuickSwitcher.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "WeaponRandomizer",
-      "name": "Weapon Randomizer",
-      "author": "juso",
-      "version": "1.0",
-      "description": "",
-      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/WeaponRandomizer/WeaponRandomizer.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "akeventplayer",
-      "name": "akeventplayer",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "alt_use_vendors",
-      "name": "alt_use_vendors",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "apples_borderlands_cheats",
-      "name": "apples_borderlands_cheats",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "bl2eternal",
-      "name": "bl2eternal",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "blimgui",
-      "name": "blimgui",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "command_extensions",
-      "name": "command_extensions",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "decent_console",
-      "name": "decent_console",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "dialog_skipper",
-      "name": "dialog_skipper",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "enemy_level_randomizer",
-      "name": "enemy_level_randomizer",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "equip_locker",
-      "name": "equip_locker",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "find_actors",
-      "name": "find_actors",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "hide_undiscovered_missions",
-      "name": "hide_undiscovered_missions",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "inventory_editor",
-      "name": "inventory_editor",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "mario",
-      "name": "mario",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "mateditor",
-      "name": "mateditor",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "no_ads",
-      "name": "no_ads",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "nocap",
-      "name": "nocap",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "offline_helpers",
-      "name": "offline_helpers",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "ohko",
-      "name": "ohko",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "paintball",
-      "name": "paintball",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "ping",
-      "name": "ping",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "quick_startup",
-      "name": "quick_startup",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "save_file_organizer",
-      "name": "save_file_organizer",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "scaling_adjuster",
-      "name": "scaling_adjuster",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
-    },
-    {
-      "id": "sliding",
-      "name": "sliding",
-      "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
-      "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/SpareParts.md"
     },
     {
       "id": "spawn_multiplier",
       "name": "spawn_multiplier",
       "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "version": "",
+      "description": "Adds an option to let you easily multiply the amount of spawns you're getting, updating live.",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/spawn_multiplier.md"
     },
     {
       "id": "speedometer",
       "name": "speedometer",
       "author": "juso",
       "version": "1.1",
-      "description": "",
+      "description": "Gotta go fast! Shows your current speed in km/h or mph.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/speedometer/speedometer.zip",
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
       "dependencies": [
         "Coroutines>=1.1",
         "UEMath Library>=1.3",
         "CanvasLIB>=1.0"
       ],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/speedometer.md"
     },
     {
       "id": "speedrun_practice",
       "name": "speedrun_practice",
       "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "version": "",
+      "description": "Borderlands 2 mod with various utilities to help in practicing speedruns. All speedruns are currently supported on some level, although many runs (e.g. current patch) don't need much help other than an easy way to make practice saves.",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/speedrun_practice.md"
+    },
+    {
+      "id": "SprintAdjuster",
+      "name": "Sprint Adjuster",
+      "author": "plu5",
+      "version": "1.1.0 2021-05-17",
+      "description": "- Change speed when sprinting, while preserving normal speed when not sprinting. - Optionally set Air Control to allow better control in the air with the movement keys, to have a better chance of stopping yourself from flinging off a cliff for instance. - Configurable keybinding to allow turning on and off on the fly.",
+      "download_url": "https://github.com/plu5/p-borderlands/releases/latest",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/SprintAdjuster.md"
+    },
+    {
+      "id": "SprintSetandForget",
+      "name": "Sprint Set-and-Forget",
+      "author": "Ceiyne",
+      "version": "1.0.0",
+      "description": "This mod remembers your movement mode (sprinting or walking): if you were sprinting the last time you moved, you will automatically start sprinting the next time you move. Pressing the Sprint key will switch back and forth between sprinting and walking at any time. There is a setting in Mod Options that controls whether you start out sprinting or walking when the game begins.",
+      "download_url": "https://gitlab.com/Ceiyne/borderlands-mods/-/raw/main/Sprint%20Set-and-Forget/Sprint_Set-and-Forget.zip?inline=false",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/SprintSetandForget.md"
+    },
+    {
+      "id": "StorageManager",
+      "name": "Storage Manager",
+      "author": "Milo",
+      "version": "1.0",
+      "description": "Adds options to set your bank and backpack size, as well as remove checks on backpack size.",
+      "download_url": "https://github.com/ncalvin1/Milo-BL2-SDK-Mods/raw/refs/heads/main/StorageManager/StorageManager_v1.0.zip",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/StorageManager.md"
+    },
+    {
+      "id": "Structs",
+      "name": "Structs",
+      "author": "apple1417",
+      "version": "1.1",
+      "description": "Imports all Unrealscript structs into Python as named tuples.",
+      "download_url": "https://github.com/apple1417/willow2-sdk-mods/raw/master/.legacy/Structs.zip",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/Structs.md"
+    },
+    {
+      "id": "SuperScreenshots",
+      "name": "Super Screenshots",
+      "author": "Pyrex",
+      "version": "1.0.0",
+      "description": "High resolution screenshots independent of game resolution, 1440p - 16k",
+      "download_url": "https://github.com/PyrexBLJ/blsdk-mods/blob/main/SuperScreenshots/SuperScreenshots.rar",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/SuperScreenshots.md"
     },
     {
       "id": "text_mod_loader",
       "name": "text_mod_loader",
       "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "version": "",
+      "description": "Automatically executes Text Mods stored in binaries.",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/text_mod_loader.md"
+    },
+    {
+      "id": "ThrowWeaponThenPickup",
+      "name": "Throw Weapon Then Pickup",
+      "author": "Lengyu",
+      "version": "1.0",
+      "description": "Adds a keybind option to the game that allows you to throw your current weapon and then pick up it immediately. The benefit of doing this is: 1.Switch weapon immediately. 2.Reloading magazine immediately. By default the key is binded to H.",
+      "download_url": "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/ThrowWeaponThenPickup/ThrowWeaponThenPickup.zip",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/ThrowWeaponThenPickup.md"
+    },
+    {
+      "id": "TimeofDayChanger",
+      "name": "Time of Day Changer",
+      "author": "Snake",
+      "version": "1.0.1",
+      "description": "Allows changing the current in-game time of day either to day, night, or forward in a fixed increment using hotkeys.",
+      "download_url": "https://github.com/slserpent/bl-sdk-mods/raw/main/DayNight/DayNight.zip",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: Creative Commons Attribution Share Alike 4.0 International', 'url: https://choosealicense.com/licenses/cc-by-sa-4.0']",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/TimeofDayChanger.md"
+    },
+    {
+      "id": "TPSExodus",
+      "name": "TPS Exodus",
+      "author": "Exotek, juso",
+      "version": "1.0.3",
+      "description": "Features: - Kill it with fire! But only if it's fleshy. Rebalanced elemental damage that punishes you for using conflicting types, and applies new debuffs depending on the type you use - regardless of weakness. - Be what you set out to be. Vault Hunters are now better at what they're good at, and worse at what they're not. Zer0 for example is more agile, but less resilient, while Salvador has the opposite effects. - Guns that are greater than the sum of their parts. Weapon parts have been rebalanced across the board, sharpening up some of the underperforming pieces of the arsenal, and generally making them more specialized. Matching parts still kick ass! - Take the time to accessorize. Weapon accessories are now standardized across all weapon types. - New unique items. Discover new and exciting ways to mutilate your enemies. - New mini bosses. Got to find them all! - New rarity. Pearls! Yup, they are back. - Shields, but better. Shields now have improved stats based on their manufacturer, and boast greatly improved (and some new) special effects. - Introducing the Manly Shield line, as designed by Jakob's. Experience the feeling of bullets entering your flesh, without the searing pain. Jakob's Manly shields have no capacity, but boost your maximum health, and health regeneration. - … and much, much more. Check out the full BL_TPS:Exodus changelog here",
+      "download_url": "https://www.nexusmods.com/borderlandspresequel/mods/44?tab=files&file_id=101",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/TPSExodus.md"
+    },
+    {
+      "id": "TPSSkinFix",
+      "name": "TPS SkinFix",
+      "author": "juso",
+      "version": "1.0",
+      "description": "Allows the exec and set command for MaterialInstanceConstant Objects. This allows the editing of Skins in TPS. Simply place this mod inside your TPS Mods folder, no enabling of this mod needed.",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/SkinFix/SkinFix.zip",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/TPSSkinFix.md"
+    },
+    {
+      "id": "TPSStyleBHop",
+      "name": "TPSStyleBHop",
+      "author": "Unknown",
+      "version": "",
+      "description": "",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/TPSStyleBHop.md"
     },
     {
       "id": "tracelib",
       "name": "tracelib",
       "author": "Unknown",
-      "version": "0.0.0",
+      "version": "",
       "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/tracelib.md"
+    },
+    {
+      "id": "Trivia",
+      "name": "Trivia",
+      "author": "Pyrex",
+      "version": "1.0.2",
+      "description": "Trivia minigame for BL2, With easy and hard difficulties. Requires MapLoader and UserFeedback",
+      "download_url": "https://github.com/PyrexBLJ/blsdk-mods/blob/main/Trivia/Trivia.zip",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
+      "dependencies": [
+        "MapLoader>=1.4.3",
+        "UserFeedback>=1.6"
+      ],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/Trivia.md"
     },
     {
       "id": "true_damage_logger",
       "name": "true_damage_logger",
       "author": "Unknown",
-      "version": "0.0.0",
+      "version": "",
       "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/true_damage_logger.md"
     },
     {
       "id": "tweens",
       "name": "tweens",
       "author": "Unknown",
-      "version": "0.0.0",
+      "version": "",
       "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/tweens.md"
+    },
+    {
+      "id": "UberPostProcessing",
+      "name": "Uber Post Processing",
+      "author": "juso",
+      "version": "1.2",
+      "description": "Exposes many post processing effects to the user. It allows you to easily change the color of any scene. Furthermore you can change settings related to Depth of Field, Bloom, Motion Blur and many other effects. For this mod to work correctly, please ensure that you enabled the Depth of Field in your settings.",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/UberPostProcessing/UberPostProcessing.zip",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/UberPostProcessing.md"
     },
     {
       "id": "ue_timers",
       "name": "ue_timers",
       "author": "Unknown",
-      "version": "0.0.0",
+      "version": "",
       "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/ue_timers.md"
     },
     {
       "id": "uemath",
       "name": "uemath",
       "author": "Unknown",
-      "version": "0.0.0",
+      "version": "",
       "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/uemath.md"
+    },
+    {
+      "id": "UltimateScavengerMod",
+      "name": "Ultimate Scavenger Mod",
+      "author": "RedxYeti",
+      "version": "1.5",
+      "description": "This mod automaically equips items when they spawn as long as your character can equip them, showing a message when it's equipped. Excluded examples are items higher level than your character or classmods not for your character. Options include: Font Size sliders for the messages, more informative messages and a few gunzerker options. If you plan on playing gunzerker, make sure to check the known issues on github. Single player only. Nexus Mods: https://www.nexusmods.com/borderlands2/mods/412",
+      "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/UltimateScavengerMod/Ultimate%20Scavenger%20Mod.zip",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/UltimateScavengerMod.md"
+    },
+    {
+      "id": "UnspecSkills",
+      "name": "Unspec Skills",
+      "author": "ZetaD\\xE6mon",
+      "version": "1.1",
+      "description": "Allows you to right click on skills to remove points from them. Removing points does get restricted by having points further up in the tree meaning you cannot go unlock a later skill and then just remove points from early skills.",
+      "download_url": "https://github.com/ZetaDaemon/bl-sdk-mods/raw/main/UnspecSkills/UnspecSkills.zip",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
+      "dependencies": [
+        "Enums>=1.0"
+      ],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/UnspecSkills.md"
+    },
+    {
+      "id": "UserFeedback",
+      "name": "UserFeedback",
+      "author": "apple1417",
+      "version": "1.6",
+      "description": "Adds several functions/classes to let you show various types of feedback to and get input from your users.",
+      "download_url": "https://github.com/apple1417/willow2-sdk-mods/raw/master/.legacy/UserFeedback.zip",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/UserFeedback.md"
     },
     {
       "id": "vendor_edit",
       "name": "vendor_edit",
       "author": "Unknown",
-      "version": "0.0.0",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "version": "",
+      "description": "Lets you edit all your gear while in game. Get started by looking at it in your inventory.",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/vendor_edit.md"
+    },
+    {
+      "id": "VisualTriggers",
+      "name": "Visual Triggers",
+      "author": "GameChanger97",
+      "version": "1.0",
+      "description": "Provides keybinds for outlining waypoints and triggers with skeleton debug cylinders. !Visual Triggers%209_15_2021%204_17_58%20PM%20(2).png?raw=true) By default '8' will toggle waypoints and '9' will toggle triggers. Once enabled, you can change the keybinds for showing triggers and waypoints in the keybinds menu.",
+      "download_url": "https://github.com/GameChanger97/Bl2-Mods/blob/main/VisualTriggers/VisualTriggers.zip?raw=true",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/VisualTriggers.md"
+    },
+    {
+      "id": "WeaponDebug",
+      "name": "Weapon Debug",
+      "author": "Snake",
+      "version": "1.0.1",
+      "description": "Adds on-screen real-time weapon statistics and/or part attributes displays.",
+      "download_url": "https://github.com/slserpent/bl-sdk-mods/raw/main/WeaponDebug/WeaponDebug.zip",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: Creative Commons Attribution Share Alike 4.0 International', 'url: https://choosealicense.com/licenses/cc-by-sa-4.0']",
+      "dependencies": [
+        "Enums>=1.0"
+      ],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/WeaponDebug.md"
+    },
+    {
+      "id": "WeaponProf",
+      "name": "WeaponProf",
+      "author": "Unknown",
+      "version": "",
+      "description": "This mod ports weapon proficiencies from Borderlands 1 without any changes.",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/WeaponProf.md"
+    },
+    {
+      "id": "WeaponQuickSwitcher",
+      "name": "Weapon Quick Switcher",
+      "author": "Lengyu",
+      "version": "1.1",
+      "description": "Adds a keybind option to the game that allows you to switch to the last used weapon quickly. By default the key is binded to Q.",
+      "download_url": "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/WeaponQuickSwitcher/WeaponQuickSwitcher.zip",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/WeaponQuickSwitcher.md"
+    },
+    {
+      "id": "WeaponRandomizer",
+      "name": "Weapon Randomizer",
+      "author": "juso",
+      "version": "1.0",
+      "description": "Auto randomizes the weapon in the first slot every X seconds, or on pressing a configurable keybind.",
+      "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/WeaponRandomizer/WeaponRandomizer.zip",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "['name: MIT', 'url: https://choosealicense.com/licenses/mit']",
+      "dependencies": [],
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/WeaponRandomizer.md"
     },
     {
       "id": "willow2_mod_manager",
       "name": "willow2_mod_manager",
       "author": "Unknown",
       "version": "Unknown",
-      "description": "",
-      "download_url": null,
-      "sha256": null,
-      "sdk": {
-        "min": "0.0.0",
-        "max": "999.999.999"
-      },
+      "description": "<script> async function update_version() { const response = await fetch( \"https://api.github.com/repos/bl-sdk/willow2-mod-manager/releases/latest\", { headers: { \"Accept\": \"application/vnd.github+json\", \"X-GitHub-Api-Version\": \"2022-11-28\", }, } ); const data = await response.json(); if (data.tag_name) { document.querySelector(\"#version\").innerText = data.tag_name; } } document.extra_custom_updater_promises = [update_version()]; </script>",
+      "download_url": "",
+      "source_url": "",
+      "supports": [
+        "BL2"
+      ],
+      "coop": "Unknown",
+      "license": "",
       "dependencies": [],
-      "incompatible_with": []
+      "incompatible_with": [],
+      "entry_md": "_willow2_mods/willow2_mod_manager.md"
     }
   ]
 }
