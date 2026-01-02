@@ -723,7 +723,7 @@
       "author": "FromDarkHell",
       "version": "1.0",
       "description": "A simple mod allowing you to have custom character skins, all selectable! - Hit R in the mod menu to reload your skins - Press O to open your skin folder Toggle skins in the Options menu, sorted by character",
-      "download_url": "https://raw.githubusercontent.com/FromDarkHell/bl-sdk-mods/main/CustomSkins/CustomSkins.zip?raw=true",
+      "download_url": "https://raw.githubusercontent.com/FromDarkHell/bl-sdk-mods/main/CustomSkins/CustomSkins.zip",
       "supports": [
         "BL2"
       ],
@@ -1237,7 +1237,7 @@
       "author": "Sampletext282",
       "version": "0.9",
       "description": "Let's you keep your Anarchy stacks. By default you will keep 50% of your stacks, this can be changed in the mods options. Only works on Host in Coop!",
-      "download_url": "https://raw.githubusercontent.com/Sampletext282/bl2-mods/main/KeepAnarchy/KeepAnarchy.zip?raw=true",
+      "download_url": "https://raw.githubusercontent.com/Sampletext282/bl2-mods/main/KeepAnarchy/KeepAnarchy.zip",
       "supports": [
         "BL2"
       ],
@@ -1252,7 +1252,7 @@
       "author": "Ceiyne",
       "version": "0.1.1",
       "description": "BL2 and TPS do not handle certain keys (such as Esc and Tab) properly when some keyboard layouts are in use (for example, the Japanese IME).  This mod changes the keyboard to English (United States) at start-up so you don't have to remember to change it yourself every time.",
-      "download_url": "https://gitlab.com/Ceiyne/borderlands-mods/-/raw/main/Keyboard%20Change/KBChange.zip?inline=false",
+      "download_url": "https://gitlab.com/Ceiyne/borderlands-mods/-/raw/main/Keyboard%20Change/KBChange.zip",
       "supports": [
         "BL2"
       ],
@@ -2172,7 +2172,7 @@
       "author": "FromDarkHell",
       "version": "1.0",
       "description": "This mod gives you the ability to save your current skill build, then restore right back to it later. When in game, hit your `Manage Skill Layouts` bind (Default: F3) Then choose whether or not you want to save your current skill build, then type in your skill build's name! From here, you can then restore back to that build for your current character class",
-      "download_url": "https://raw.githubusercontent.com/FromDarkHell/bl-sdk-mods/main/SkillSaver/SkillSaver.zip?raw=true",
+      "download_url": "https://raw.githubusercontent.com/FromDarkHell/bl-sdk-mods/main/SkillSaver/SkillSaver.zip",
       "supports": [
         "BL2"
       ],
@@ -2358,7 +2358,7 @@
       "author": "Ceiyne",
       "version": "1.0.0",
       "description": "This mod remembers your movement mode (sprinting or walking): if you were sprinting the last time you moved, you will automatically start sprinting the next time you move. Pressing the Sprint key will switch back and forth between sprinting and walking at any time. There is a setting in Mod Options that controls whether you start out sprinting or walking when the game begins.",
-      "download_url": "https://gitlab.com/Ceiyne/borderlands-mods/-/raw/main/Sprint%20Set-and-Forget/Sprint_Set-and-Forget.zip?inline=false",
+      "download_url": "https://gitlab.com/Ceiyne/borderlands-mods/-/raw/main/Sprint%20Set-and-Forget/Sprint_Set-and-Forget.zip",
       "supports": [
         "BL2"
       ],
@@ -2656,7 +2656,7 @@
       "author": "GameChanger97",
       "version": "1.0",
       "description": "Provides keybinds for outlining waypoints and triggers with skeleton debug cylinders. !Visual Triggers%209_15_2021%204_17_58%20PM%20(2).png?raw=true) By default '8' will toggle waypoints and '9' will toggle triggers. Once enabled, you can change the keybinds for showing triggers and waypoints in the keybinds menu.",
-      "download_url": "https://raw.githubusercontent.com/GameChanger97/Bl2-Mods/main/VisualTriggers/VisualTriggers.zip?raw=true",
+      "download_url": "https://raw.githubusercontent.com/GameChanger97/Bl2-Mods/main/VisualTriggers/VisualTriggers.zip",
       "supports": [
         "BL2"
       ],
