@@ -25,40 +25,6 @@
       "entry_md": "_willow2_mods/ActionSkillCountdownTimer.md"
     },
     {
-      "id": "AfterburnTweaks",
-      "name": "Afterburn Tweaks",
-      "author": "RedxYeti",
-      "version": "1.0",
-      "description": "Using this mod you can change: Minimum start speed for afterburner Afterburn speed Afterburn duration Afterburn regen rate Afterburn regen delay For the runner, technical and hovercraft. I mostly made this so I could afterburn right away like borderlands 1.",
-      "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/AfterburnTweaks/AfterburnTweaks.zip",
-      "source_url": "",
-      "supports": [
-        "BL2"
-      ],
-      "coop": "Unknown",
-      "license": "['name: GNU GPLv3', 'url: https://choosealicense.com/licenses/gpl-3.0']",
-      "dependencies": [],
-      "incompatible_with": [],
-      "entry_md": "_willow2_mods/AfterburnTweaks.md"
-    },
-    {
-      "id": "akeventplayer",
-      "name": "akeventplayer",
-      "author": "Unknown",
-      "version": "",
-      "description": "",
-      "download_url": "",
-      "source_url": "",
-      "supports": [
-        "BL2"
-      ],
-      "coop": "Unknown",
-      "license": "",
-      "dependencies": [],
-      "incompatible_with": [],
-      "entry_md": "_willow2_mods/akeventplayer.md"
-    },
-    {
       "id": "AllMyHomiesHateSHiFT",
       "name": "All My Homies Hate SHiFT",
       "author": "Pyrex",
@@ -3182,4 +3148,5 @@
       "entry_md": "_willow2_mods/willow2_mod_manager.md"
     }
   ]
+
 }
