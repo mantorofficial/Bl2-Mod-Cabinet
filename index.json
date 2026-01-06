@@ -9,6 +9,9 @@
       "version": "1.0",
       "description": "When your action skill ends, a timer will start on your hud. The timer is fairly customizable, you can change its color, position, size and font. Note: The timer is more based on your action skill cooldown rate more than actual seconds. Thanks to ZetaDaemon for the farm counter, which made this possible.",
       "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/ActionSkillCountdown/ActionSkillCountdown.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -24,6 +27,9 @@
       "version": "1.0",
       "description": "Using this mod you can change: Minimum start speed for afterburner Afterburn speed Afterburn duration Afterburn regen rate Afterburn regen delay For the runner, technical and hovercraft. I mostly made this so I could afterburn right away like borderlands 1.",
       "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/AfterburnTweaks/AfterburnTweaks.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -39,6 +45,9 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/juso40/bl2sdk-mods/raw/refs/heads/main/akevent_player/akevent_player.sdkmod",
+      "requires": [
+        "blimgui"
+      ],
       "supports": [
         "BL2"
       ],
@@ -54,6 +63,9 @@
       "version": "1.0.0",
       "description": "Sets offline/lan mode on boot to speed up starting the game a lil bit",
       "download_url": "https://raw.githubusercontent.com/PyrexBLJ/blsdk-mods/main/AllMyHomiesHateSHiFT/AllMyHomiesHateSHiFT.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -69,6 +81,9 @@
       "version": "1.0.3",
       "description": "Joltz idea for a deception modifier in his AON run",
       "download_url": "https://raw.githubusercontent.com/PyrexBLJ/blsdk-mods/main/AllOrNothingCompanion/AllOrNothingCompanion.rar",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -84,6 +99,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/Siggless/bl-sdk-mods/raw/refs/heads/main/AltUseCatchARide/AltUseCatchARide.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -99,6 +115,7 @@
       "version": "0.0.0",
       "description": "This mod enables alt use for fast travel stations that will travel you to either your current objective, the station you last traveled from, or a specific station.",
       "download_url": "https://github.com/RedxYeti/bl2-willow2-sdkmods/raw/refs/heads/main/AltUseFastTravel/AltUseFastTravel.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -114,6 +131,7 @@
       "version": "0.0.0",
       "description": "Adds alt use binds to vendors to let you quickly refill health and ammo and sell trash, like in BL3/Wonderlands.",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/releases/download/nightly/alt_use_vendors.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -129,6 +147,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/RedxYeti/bl2-willow2-sdkmods/raw/refs/heads/main/AlwaysTeleportVehicles/AlwaysTeleportVehicles.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -144,6 +163,9 @@
       "version": "1.1.0",
       "description": "Periodically spawns random groups of enemies. The idea is to make the game more unpredictable.",
       "download_url": "https://github.com/Siggless/bl-sdk-mods/raw/main/AmbientSpawns/AmbientSpawns.zip",
+      "requires": [
+        "UserFeedback>=1.6"
+      ],
       "supports": [
         "BL2"
       ],
@@ -159,6 +181,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/bisnapYT/AnarchySaver/raw/refs/heads/main/AnarchySaver.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -174,6 +197,7 @@
       "version": "0.0.0",
       "description": "Adds keybinds performing various cheaty things.",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/releases/download/nightly/apples_borderlands_cheats.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -189,6 +213,9 @@
       "version": "1.0.1",
       "description": "Stop certain sounds from playing, more sounds can be added in the future",
       "download_url": "https://raw.githubusercontent.com/PyrexBLJ/blsdk-mods/main/AudioControl/AudioControl1_0_1.rar",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -204,6 +231,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/RedxYeti/bl2-willow2-sdkmods/raw/refs/heads/main/AutomaticReloadFix/AutomaticReloadFix.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -219,6 +247,9 @@
       "version": "1.0.3",
       "description": "Automatically pickups consumable items, such as Ammo, Health, Eridium. It's an attempt to automatically pickup items from chest after opening, BL3 style. Side effect is that it tries to pickup from the ground also.",
       "download_url": "https://github.com/tominator1pl/bl-sdk-mods/raw/main/AutoPickup/AutoPickup.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -235,6 +266,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/RedxYeti/bl2-willow2-sdkmods/raw/refs/heads/main/AutoPickupTweaks/AutoPickupTweaks.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -250,6 +282,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/infernumx/bl-sdk-mods/releases/download/auto-save-blocker/auto_save_blocker.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -265,6 +298,9 @@
       "version": "1.1",
       "description": "Customize the size of your character's backpack on the fly!",
       "download_url": "https://github.com/bl-sdk/former-default-mods/raw/master/BackpackManager/BackpackManager.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -282,6 +318,9 @@
       "version": "1.0",
       "description": "Adds many randomly generated bounties to the game. Each bounty will reward you with XP, Money and a random item upon completion. The rarity of the reward items scale with your level. To open the bounty board menu check your modded keybinds menu.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/BadassBounties/BadassBounties.zip",
+      "requires": [
+        "UserFeedback>=1.5"
+      ],
       "supports": [
         "BL2"
       ],
@@ -297,6 +336,7 @@
       "version": "0.0.0",
       "description": "Prevents badass rank increasing, and non-level-specific challenge reward pop-ups from showing. Intended for use with mods that would otherwise give you loads of rank.",
       "download_url": "https://github.com/Siggless/bl-sdk-mods/raw/refs/heads/main/BARLock/BARLock.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -312,6 +352,9 @@
       "version": "1.0",
       "description": "Customize the size of your character\u2019s backpack on the fly!",
       "download_url": "https://raw.githubusercontent.com/PureEvil139/Bl2-Mods/9bd540a8b10b607d1584dd1459132d451c3a3e55/BankManager/BankManager.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -329,6 +372,9 @@
       "version": "1.0.2",
       "description": "Use the bank and stash from anywhere with a hotkey. Can cause some visual texture issues",
       "download_url": "https://raw.githubusercontent.com/PyrexBLJ/blsdk-mods/main/BASA/BASA.rar",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -345,6 +391,9 @@
       "version": "2.0",
       "description": "Gone are the times of missing loot because it fell out of the reachable area. This mod adds a configurable keybind, that will allow you to teleport all loot on the ground directly in front of you. Default Key: ``Enter``",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/BeGoneOutOfBoundsLoot/BeGoneOutOfBoundsLoot.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -361,6 +410,10 @@
       "version": "1.0",
       "description": "Allows for the customisation of damage particles changing the colour, colour on crit, toggle CRITICAL effect, increased size on crit or turn damage numbers off entirely. Additionally allows for hit sounds and critical hit sounds.",
       "download_url": "https://github.com/ZetaDaemon/bl-sdk-mods/raw/main/BetterDamageFeedback/BetterDamageFeedback.zip",
+      "requires": [
+        "Enums>=1.0",
+        "Structs>=1.1"
+      ],
       "supports": [
         "BL2"
       ],
@@ -378,6 +431,9 @@
       "version": "1.2.0",
       "description": "Ports back some qol features of BL3: - open the fast travel from anywhere - teleport in your vehicle from the map menu - spawn at the last triggered spawn station",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/BSABT/BSABT.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -394,6 +450,7 @@
       "version": "0.0.0",
       "description": "This mod will let you use your movement keys (in my case WASD) to control a bunch of menus. It also enables your Use key (in my case E) to select items in menus. The mod will automatically adjust to your keys.",
       "download_url": "https://github.com/RedxYeti/bl2-willow2-sdkmods/raw/refs/heads/main/BetterUIControls/BetterUIControls.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -409,6 +466,9 @@
       "version": "1.0",
       "description": "Have you ever felt like the games particles is lacking a bit of oomph? Big PP allows you to increase the amount of various particles. Check out the various particle types in the mod options. Using Big PP might decrease your performance, depending on your GPU and your game settings.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/BigParticleParty/BigParticleParty.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -425,6 +485,10 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/juso40/bl2sdk-mods/raw/refs/heads/main/bl2eternal/bl2eternal.sdkmod",
+      "requires": [
+        "uemath",
+        "Coroutines"
+      ],
       "supports": [
         "BL2"
       ],
@@ -440,6 +504,7 @@
       "version": "0.0.0",
       "description": "A library that allows modders to easily create and manage a separate window to develope GUI mods.",
       "download_url": "https://github.com/juso40/blimgui/raw/refs/heads/master/blimgui.zip",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -455,6 +520,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/RedxYeti/bl2-willow2-sdkmods/raw/refs/heads/main/BoostedTPSCharacters/BoostedTPSCharacters.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -470,6 +536,9 @@
       "version": "1.0",
       "description": "Provides options to enable: - Weapon merging - Weapon skill stacking (e.g. infinite ammo, Evil Smasher buffs) - Full amp damage on every pellet",
       "download_url": "https://github.com/Justin99x/bl-sdk-mods/raw/main/BorderlandsRewind/BorderlandsRewind.zip",
+      "requires": [
+        "UserFeedback>=1.6"
+      ],
       "supports": [
         "BL2"
       ],
@@ -485,6 +554,9 @@
       "version": "1.1",
       "description": "Adds a Boss-/Health-bar to most named enemies.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/bossbar/bossbar.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -501,6 +573,9 @@
       "version": "1.1",
       "description": "A library for easy writing to the screen with different fonts and alignments.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/canvaslib/canvaslib.zip",
+      "requires": [
+        "Coroutines>=1.1"
+      ],
       "supports": [
         "BL2"
       ],
@@ -518,6 +593,9 @@
       "version": "0.1",
       "description": "Simplifies the process of modifying Unreal Engine objects, and tracks changes so that they can be reverted later.",
       "download_url": "https://github.com/ncalvin1/Milo-BL2-SDK-Mods/raw/refs/heads/main/ChangeUtil/ChangeUtil_v0.1.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -535,6 +613,9 @@
       "version": "1.1",
       "description": "Adds the ability to sell items that are on the floor or in your backpack by pressing the 'Secondary Use' key.",
       "download_url": "https://github.com/Decept1x/Borderlands-Cleaning-Up-Pandora/releases/download/1.1/CleaningUpPandora.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -551,6 +632,9 @@
       "version": "0.1.0",
       "description": "Visualizes invisible blocking/killing collision volumes and allows hiding meshes with no collision.",
       "download_url": "https://github.com/NoneGiven/bl-sdk-mods/raw/main/CollisionVisualizer/CollisionVisualizer.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -568,6 +652,9 @@
       "version": "1.0",
       "description": "Kills are now counted towards a killstreak on screen, awarding more XP the higher your kill count goes ! XP multiplication currently capped after 15 kills to prevent ridiculous XP gains",
       "download_url": "https://raw.githubusercontent.com/Sartick/bl-sdk-mods/main/ComboCounter/ComboCounter.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -584,6 +671,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/mopioid/Borderlands-Commander/raw/refs/heads/master/Commander.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -599,6 +687,7 @@
       "version": "0.0.0",
       "description": "Adds a few new console commands, and provides functionality for other mods to do the same. All these commands are fully compatible with blcmm files, you can just put them in your mod and have users merge it with other files and enable/disable various categories and it all just keeps working fine.",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/releases/download/nightly/command_extensions.zip",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -614,6 +703,9 @@
       "version": "2.1",
       "description": "A mod that allows you to change the viewmodel of any WeaponType. To change your viewmodel go ingame, ``Escape``-&gt;``Mods``-&gt;``CVM``",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/ConfigurableViewmodel/ConfigurableViewmodel.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -630,6 +722,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/RedxYeti/bl2-willow2-sdkmods/raw/refs/heads/main/ConsistentTime/ConsistentTime.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -645,6 +738,9 @@
       "version": "1.0",
       "description": "Gives a slider in the mod settings to adjust the console font size.",
       "download_url": "https://github.com/ZetaDaemon/bl-sdk-mods/raw/main/ConsoleFontSize/ConsoleFontSize.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -662,6 +758,9 @@
       "version": "1.2.0",
       "description": "PythonSDK Mod/Ressource that allows the easy creation and use of new non replacing Objects.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/Constructor/Constructor.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -678,6 +777,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/juso40/bl2sdk-mods/raw/refs/heads/main/coroutines/coroutines.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -693,6 +793,9 @@
       "version": "1.2",
       "description": "Randomize all the skills!",
       "download_url": "https://github.com/bl-sdk/former-default-mods/raw/master/SkillRandomizer/SkillRandomizer.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -708,6 +811,9 @@
       "version": "1.0",
       "description": "Adds custom ADS sensitivity multiplier sliders for each sniper sight.",
       "download_url": "https://github.com/Decept1x/Borderlands-Custom-Scoped-Sensitivity/releases/download/1.0/CustomScopedSensitivity.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -724,6 +830,9 @@
       "version": "1.0",
       "description": "A simple mod allowing you to have custom character skins, all selectable! - Hit R in the mod menu to reload your skins - Press O to open your skin folder Toggle skins in the Options menu, sorted by character",
       "download_url": "https://raw.githubusercontent.com/FromDarkHell/bl-sdk-mods/main/CustomSkins/CustomSkins.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -739,6 +848,9 @@
       "version": "1.4",
       "description": "Memory program for Death Trap. You can press the keybind(default: 6) to save the data of your equipped shield. Death Trap will always copy the shield you saved if it is in your backpack. The Memory is persistent. To erase the memory, you could remove your shield and press the keybind again. It works in multiplayer game when both the server player and the client player have enabled this mod.",
       "download_url": "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/DeathTrapMemory/DeathTrapMemory.zip",
+      "requires": [
+        "UserFeedback>=1.6"
+      ],
       "supports": [
         "BL2"
       ],
@@ -754,6 +866,9 @@
       "version": "1.1.1",
       "description": "Gives Deathtrap its own configurable shield from the inventory of Gaige.",
       "download_url": "https://github.com/rlnt/bl2-deathtrapshield/releases/download/v1.1.1/DeathtrapShield.zip",
+      "requires": [
+        "EridiumLib>=0.4.2"
+      ],
       "supports": [
         "BL2"
       ],
@@ -769,6 +884,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/juso40/bl2sdk-mods/raw/refs/heads/main/decent_console/decent_console.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -784,6 +900,9 @@
       "version": "2.1",
       "description": "If it talks, it gets randomized. DLC dialogs are only loaded while in the DLC, therefore they can only be played/randomized inside the DLC.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/dialograndomizer/dialograndomizer.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -800,6 +919,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/ZetaDaemon/willow2-sdk-mods/releases/download/nightly/dialog_skipper.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -815,6 +935,10 @@
       "version": "1.0",
       "description": "Replaces BAR with a difficulty mode that can be changed in the options.",
       "download_url": "https://github.com/ZetaDaemon/bl-sdk-mods/raw/main/DifficultyModes/DifficultyModes.zip",
+      "requires": [
+        "Structs>=1.0",
+        "Enums>=1.1"
+      ],
       "supports": [
         "BL2"
       ],
@@ -830,6 +954,9 @@
       "version": "2.0",
       "description": "Increase the times enemies drop loot from their pool. You can easily change the amount of rolls from the pool from the ingame menues.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/DropChanceMultiplier/DropChanceMultiplier.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -846,6 +973,9 @@
       "version": "1.0",
       "description": "This mod will allow you to have keys do multiple things. I highly suggest you read the readme and check out the example ini on github.",
       "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/releases/download/SDKMods/ActionSkillCountdown.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -861,6 +991,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://raw.githubusercontent.com/Zazk0u/new-bl-sdk-mods/refs/heads/main/early_skill_points/early_skill_points.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -876,6 +1007,9 @@
       "version": "1.0",
       "description": "Toggle Read Only on a button press",
       "download_url": "https://github.com/bl-sdk/former-default-mods/raw/master/ReadOnly/ReadOnly.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -893,6 +1027,9 @@
       "version": "0.1",
       "description": "Changes subtle aspects of most game items, so they no longer behave completely as expected.",
       "download_url": "https://github.com/ncalvin1/Milo-BL2-SDK-Mods/raw/refs/heads/main/EffectRandomizer/EffectRandomizer_v0.1.zip",
+      "requires": [
+        "Change Util>=0.1"
+      ],
       "supports": [
         "BL2"
       ],
@@ -910,6 +1047,9 @@
       "version": "1.0",
       "description": "Adds a list of different emotes. Check ``Modded Keybinds`` to configure the mod.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/Emotes/Emotes.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -926,6 +1066,9 @@
       "version": "1.0",
       "description": "Adds a hotkey to force end your action skill. Most useful on Krieg and Sal.",
       "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/EndActionSkillKey/EndActionSkillKey.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -941,6 +1084,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/releases/download/nightly/enemy_level_randomizer.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -956,6 +1100,9 @@
       "version": "1.1",
       "description": "Imports all Unrealscript enums into Python.",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/raw/master/.legacy/Enums.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -973,6 +1120,7 @@
       "version": "0.0.0",
       "description": "Adds various options that prevent you from equipping certain types of items/weapons.",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/releases/download/nightly/equip_locker.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -988,6 +1136,9 @@
       "version": "0.4.2",
       "description": "Holds utility functions for some mods.",
       "download_url": "https://github.com/rlnt/bl2-eridiumlib/releases/download/v0.4.2/EridiumLib.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1004,6 +1155,9 @@
       "version": "1.0.0 2021-04-05",
       "description": "Adds sliders to adjust XP amounts: - baserates for each mode, - as well as multipliers based on level difference from killed enemies.",
       "download_url": "https://github.com/plu5/p-borderlands/releases/download/v2.1.0/ExpAdjuster.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1019,6 +1173,9 @@
       "version": "1.1",
       "description": "Adds a customiseable farm counter to keep track of your runs.",
       "download_url": "https://github.com/ZetaDaemon/bl-sdk-mods/raw/main/FarmCounter/FarmCounter.zip",
+      "requires": [
+        "UserFeedback>=1.5"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1036,6 +1193,7 @@
       "version": "0.0.0",
       "description": "Small library for finding actors near the player or other objects.",
       "download_url": "https://github.com/RedxYeti/bl2-willow2-sdkmods/raw/refs/heads/main/find_actors/find_actors.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -1051,6 +1209,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/ZetaDaemon/willow2-sdk-mods/releases/download/nightly/firing_fix.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -1066,6 +1225,9 @@
       "version": "2.0",
       "description": "Drive the Vehicles from first person perspective. Adds a keybind to toggle between 1st and 3rd person. You can change the keybinds in ``Modded Keybinds`` menu.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/FirstPersonDriver/FirstPersonDriver.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1081,6 +1243,9 @@
       "version": "1.0",
       "description": "Adds custom sliders to the game that allows you to easily change the games target min and max FPS values.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/fpsslider/fpsslider.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1097,6 +1262,9 @@
       "version": "2.1",
       "description": "Scales all zones in Normal Mode and True Vault Hunter Mode to your level, and removes the level cap for TVHM scaling in BL2 and TPS. In BL2 and TPS, Normal Mode level cap is 35, TVHM minimum level is 30. In AoDK, Normal Mode level cap is 18 and TVHM minimum level is 17.",
       "download_url": "https://github.com/Rossays/BL-SDK-Mods/raw/main/Game%20Scaler/GameScaler.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1114,6 +1282,10 @@
       "version": "1.0",
       "description": "Randomises all gear in the game. Adds options to additionally choose which character class mods will be locked to as well as a chaos mode which removes restrictions for weapons as to which parts spawn where on a gun. Does not change how loot is obtained or enemy drops so it is highly suggested to also use a mod like Cold Dead Hands. Also works with mods that add new gear to the game, you will just need to update parts for the randomiser in the mod enable window after running the other mod. If progess is stuck due to weapon randomisation there is a backup button to re-randomise all weapons not belonging to the player.",
       "download_url": "https://github.com/ZetaDaemon/bl-sdk-mods/raw/main/GearRandomiser/GearRandomiser.zip",
+      "requires": [
+        "Structs>=1.0",
+        "Sanity Saver>=2.2"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1131,6 +1303,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/RedxYeti/bl2-willow2-sdkmods/raw/refs/heads/main/GrenadeJumpKey/GrenadeJumpKey.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -1146,6 +1319,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/Siggless/bl-sdk-mods/raw/refs/heads/main/GrenadeModQuickSwitcher/GrenadeModQuickSwitcher.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -1161,6 +1335,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/releases/download/nightly/hide_undiscovered_missions.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -1176,6 +1351,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/juso40/bl2sdk-mods/raw/refs/heads/main/inventory_editor/inventory_editor.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -1191,6 +1367,9 @@
       "version": "1.3",
       "description": "This mod is useless by itself, it should be used alongside the hexedit to increase the player level cap.",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/raw/master/.legacy/ItemLevelUncapper.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1208,6 +1387,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/RedxYeti/bl2-willow2-sdkmods/raw/refs/heads/main/ItemLights/ItemLights.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -1223,6 +1403,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/Siggless/bl-sdk-mods/raw/refs/heads/main/JumpToLevelChallenges/JumpToLevelChallenges.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -1238,6 +1419,9 @@
       "version": "0.9",
       "description": "Let's you keep your Anarchy stacks. By default you will keep 50% of your stacks, this can be changed in the mods options. Only works on Host in Coop!",
       "download_url": "https://raw.githubusercontent.com/Sampletext282/bl2-mods/main/KeepAnarchy/KeepAnarchy.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1253,6 +1437,9 @@
       "version": "0.1.1",
       "description": "BL2 and TPS do not handle certain keys (such as Esc and Tab) properly when some keyboard layouts are in use (for example, the Japanese IME).  This mod changes the keyboard to English (United States) at start-up so you don't have to remember to change it yourself every time.",
       "download_url": "https://gitlab.com/Ceiyne/borderlands-mods/-/raw/main/Keyboard%20Change/KBChange.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1269,6 +1456,9 @@
       "version": "1.0",
       "description": "Allows you to spend money to copy the selected equipment. Press the keybind 'UseSecondary' on the Equipment page or Backpack page to throw and copy the selected equipment. It costs the selling price of the equipment. It works in multiplayer game when both the server player and the client player have enabled this mod.",
       "download_url": "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/LengyuCopyDevice/LengyuCopyDevice.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1285,6 +1475,9 @@
       "version": "1.3",
       "description": "Allows you to teleport yourself anywhere you marked. 1.Press NUMPad0 to mark the location. 2.Press NUMPadDot to teleport. 3.Press NUMPad1-3 to switch within 3 slots. 4.Press NUMPad4-6 to teleport other player to you. 5.Open the option to print teleport console command when you mark location. It works in mutiplayer games. It doesn't work in the map Digistruct Peak.",
       "download_url": "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/LengyuTPDevice/LengyuTPDevice.zip",
+      "requires": [
+        "UserFeedback>=1.6"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1301,6 +1494,7 @@
       "version": "0.0.0",
       "description": "Options to disable DOT (status effect) screams, or only to play when shield is broken.",
       "download_url": "https://github.com/Siggless/bl-sdk-mods/raw/refs/heads/main/LessDOTScreams/LessDOTScreams.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -1316,6 +1510,9 @@
       "version": "0.1",
       "description": "Modifies the action skill of 55tumbl's excellent Lilith mod to work more like BL1 Lilith's Phasewalk.  You no longer need a target in the crosshairs.",
       "download_url": "https://github.com/ncalvin1/Milo-BL2-SDK-Mods/raw/refs/heads/main/LilithPatch/LilithPatch_v0.1.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1332,6 +1529,9 @@
       "version": "1.2",
       "description": "Provides access to continuously up-to-date information about the current game, for chatbots and other applications.",
       "download_url": "https://github.com/mopioid/Borderlands-Live-Feed/releases/download/1.2/BorderlandsLiveFeed.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1347,6 +1547,9 @@
       "version": "1.4",
       "description": "Help you collect loot conveniently. 1.Press / to teleport all loot to you. These loot will form a circle around you and be sorted by rarity level. 2.Press - (on keypad) to delete all white and green loot. 3.Press Delete to delete all loot. (CAUTION) Mission Items and ECHO will be excluded. It works in mutiplayer games. <img height='360' src='https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/LootCollector/LootCollector.jpg' width='640'>",
       "download_url": "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/LootCollector/LootCollector.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1363,6 +1566,9 @@
       "version": "1.0",
       "description": "Disables loot collision with dead bodies and other loot. No more loot going to outer space (or further).",
       "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/LootCollision/LootCollision.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1379,6 +1585,9 @@
       "version": "1.4",
       "description": "Places a marker on the map and minimap for every legendary or better. Currently supports Exodus and UPC/Vanilla for both, TPS and BL2. You can change the marker type, optionally enable a sound (and choose out of a predefined list) to be played when a legendary got dropped.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/LootMarker/LootMarker.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1395,6 +1604,9 @@
       "version": "2.1",
       "description": "Plays special Particles and sounds depending on the loot rarity. Supports Reborn and Exodus (non SDK version).",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/LootNotificator/LootNotificator.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1410,6 +1622,9 @@
       "version": "1.5.5",
       "description": "Loot Randomizer is a mod for Borderlands 2 and The Pre-Sequel that provides repeated new playthrough experiences, by means of shuffling every item in the game into new drop locations.",
       "download_url": "https://github.com/mopioid/Borderlands-Loot-Randomizer/releases/download/1.5.5/LootRandomizer.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1426,6 +1641,9 @@
       "version": "1.4.3",
       "description": "Allows the use of custom map files created by the MapEditor. To add/remove a custom map simply place/remove the .json map file into/from the  directory. Each map file has its own Options/Mods entry that you can either enable or disable. Because loading in and creating hundreds of new objects takes time, this mod will increase your Loading screen times. If you absolutely can't live with ~4 additional seconds of Loading, check out the Options&gt;Mod Menu. This mod comes with an optional ``Threaded Loading`` option. Enabling this option will remove any additional loading screen time,instead the custom map changes will load in over time.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/MapLoader/MapLoader.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1442,6 +1660,9 @@
       "version": "1.1",
       "description": "Quickly farm items and save quit at a button press!",
       "download_url": "https://github.com/bl-sdk/former-default-mods/raw/master/Quickload/Quickload.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1459,6 +1680,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/releases/download/nightly/mario.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -1474,6 +1696,9 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/juso40/bl2sdk-mods/raw/refs/heads/main/mateditor/mateditor.sdkmod",
+      "requires": [
+        "blimgui"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1489,6 +1714,9 @@
       "version": "1.0",
       "description": "A few tweaks to Zer0 and Krieg to enhance their melee gameplay",
       "download_url": "https://github.com/LaryIsland/bl-sdk-mods/raw/main/MeleeEnhancement/MeleeEnhancement.zip",
+      "requires": [
+        "Structs>=1.1"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1504,6 +1732,9 @@
       "version": "1.0",
       "description": "Adds two keybinds to the game that allow you to quickly switch between missions without having to open the mission menu.",
       "download_url": "https://raw.githubusercontent.com/juso40/bl2sdk_Mods/master/MissionQuickswitcher/MissionQuickswitcher.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1520,6 +1751,9 @@
       "version": "1.3.2",
       "description": "Lets you switch through missions with configurable hotkeys like in Borderlands 3.",
       "download_url": "https://github.com/rlnt/bl2-missionselector/releases/download/v1.3.2/MissionSelector.zip",
+      "requires": [
+        "EridiumLib>=0.4.2"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1536,6 +1770,9 @@
       "version": "1.2",
       "description": "Allows for double jumps and slamming in BL2. Now with multiplayer support!",
       "download_url": "https://github.com/ZetaDaemon/bl-sdk-mods/raw/main/MovementTech/MovementTech.zip",
+      "requires": [
+        "Enums>=1.0"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1551,6 +1788,9 @@
       "version": "0.1",
       "description": "Prevents selling or dropping starred items.",
       "download_url": "https://github.com/ncalvin1/Milo-BL2-SDK-Mods/raw/refs/heads/main/MyFavoriteMod/MyFavoriteMod_v0.1.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1568,6 +1808,9 @@
       "version": "1.0",
       "description": "After getting in game you'll want to enable the mod and choose your options. Also you can set up a hotkey to change weapons.",
       "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/NewWeaponOnKill/NewWeaponOnKill.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1583,6 +1826,7 @@
       "version": "0.0.0",
       "description": "Extends team limits and functionality for 5+ player lobbies. Only required on host, clients can join with or without mod installed.",
       "download_url": "https://github.com/stealmyhousekey/willow2-sdk-mods/raw/refs/heads/main/nocap/nocap.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -1598,6 +1842,9 @@
       "version": "1.1",
       "description": "Disables your Crosshair. If you have the ``coroutines`` and ``canvaslib`` libraries installed, you may enable a static square crosshair in the center of the screen. This static square can further be customized in the mods settings menu.",
       "download_url": "https://raw.githubusercontent.com/juso40/bl2sdk_Mods/master/NoCrosshair/NoCrosshair.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1614,6 +1861,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/RedxYeti/bl2-willow2-sdkmods/raw/refs/heads/main/NoTextureFade/NoTextureFade.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -1629,6 +1877,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/releases/download/nightly/no_ads.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -1644,6 +1893,9 @@
       "version": "1.1",
       "description": "Friendly NPCs will attempt to revive you.",
       "download_url": "https://raw.githubusercontent.com/juso40/bl2sdk_Mods/master/NPCRevives/NPCRevives.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1660,6 +1912,9 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://raw.githubusercontent.com/Zazk0u/new-bl-sdk-mods/refs/heads/main/object_relocator/object_relocator.sdkmod",
+      "requires": [
+        "uemath"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1675,6 +1930,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/releases/download/nightly/offline_helpers.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -1690,6 +1946,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/releases/download/nightly/ohko.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -1705,6 +1962,9 @@
       "version": "1.8",
       "description": "Ever felt gunzerking with two different guns was too complicated? No? Well too bad. Makes you gunzerk with two copies of the same gun instead of two different ones.",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/raw/master/.legacy/Onezerker.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1720,6 +1980,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/RedxYeti/bl2-willow2-sdkmods/raw/refs/heads/main/OpenSanctuaryDoors/OpenSanctuaryDoors.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -1735,6 +1996,9 @@
       "version": "1.1",
       "description": "It allows you to open chests and containers by damaging them. Currently, does not allow chests and containers that cost currencies.",
       "download_url": "https://raw.githubusercontent.com/Zazk0u/bl-sdk-mods/main/OpenSesame/OpenSesame.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1751,6 +2015,7 @@
       "version": "0.0.0",
       "description": "Automatically rewards **ALL** optional objectives in Borderlands 2 and The Pre-Sequel with configurable rewards that scale by playthrough difficulty.",
       "download_url": "https://github.com/sergioalmela/Sergio-Borderlands-SDK-Mods/releases/latest/download/optional_objectives_reward.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -1766,6 +2031,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/juso40/bl2sdk-mods/raw/refs/heads/main/paintball/paintball.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -1781,6 +2047,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/juso40/bl2sdk-mods/raw/refs/heads/main/photomode/photomode.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -1796,6 +2063,10 @@
       "version": "1.0.1",
       "description": "Adds an option to pickup items from the ground as trash. You can use your Secondary Use (default Q) on item on the ground to pick it up. Such items will be automatically marked as trash, so you can sell it at a vendor faster. There is a built-in setting to disable the tooltip.",
       "download_url": "https://github.com/tominator1pl/bl-sdk-mods/raw/main/PickupAsTrash/PickupAsTrash.zip",
+      "requires": [
+        "Enums>=1.0",
+        "Structs>=1.0"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1812,6 +2083,9 @@
       "version": "1.1",
       "description": "Shows a message with the item you just picked up.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/PickupMessages/PickupMessages.zip",
+      "requires": [
+        "Coroutines>=1.1"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1828,6 +2102,11 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/juso40/bl2sdk-mods/raw/refs/heads/main/ping/ping.sdkmod",
+      "requires": [
+        "uemath",
+        "tracelib",
+        "Coroutines"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1843,6 +2122,9 @@
       "version": "0.2",
       "description": "Fills a player's trees with random skills, and updates class mods to boost skills from the new set.",
       "download_url": "https://github.com/ncalvin1/Milo-BL2-SDK-Mods/raw/refs/heads/main/PlayerRandomizer/PlayerRandomizer_v0.2.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1860,6 +2142,9 @@
       "version": "1.0",
       "description": "1. Download: Pawn Grenade 2. Add the ``Pokelands.blcm`` to the ``PawnGrenade.blcm`` using BLCMM and let it overwrite anything it wants. 2b. Tick the ``Offline`` box in BLCMM to change the Hotfix method. For me the normal online one didn't work when tested. 2c. Save the changes, you may now close BLCMM. 3. Add the ``Nasty Suprise`` to your characters inventory, preferably with a low fuse. 4. In Game, first ``exec PawnGrenade.blcm``, then enable the Pokelands SDK mod. 5. Thats it.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/Pokelands/Pokelands.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1875,6 +2160,7 @@
       "version": "0.0.0",
       "description": "****WARNING: THIS MOD CAN HAVE LOTS OF FLASHING LIGHTS AND OFTEN IS VERY LOUD**** ****RECOMMNDED YOU HAVE YOUR VOLUME LOW****",
       "download_url": "https://github.com/RedxYeti/bl2-willow2-sdkmods/raw/refs/heads/main/ProjectileRandomizer/ProjectileRandomizer.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -1890,6 +2176,9 @@
       "version": "1.9",
       "description": "Shows the parts making up all of your items and weapons on their cards. Yes this even includes Grenades, COMs, and Relics/Oz Kits. Has full mod support, so if a mod adds extra parts to a weapon or changes a part's mesh it will properly update. Unique part support is limited, they may just show the same as the base part with the same mesh.",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/raw/master/.legacy/PythonPartNotifier.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1907,6 +2196,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/juso40/bl2sdk-mods/raw/refs/heads/main/quick_startup/quick_startup.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -1922,6 +2212,9 @@
       "version": "1.1",
       "description": "Disables most things printed to console by Gearbox, leaving a nice clean console for logging.",
       "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/QuietConsole/QuietConsole.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1938,6 +2231,9 @@
       "version": "1.2",
       "description": "It's a concept we all know and love: Rare enemy variants, like Loot Midgets and Tubbies. Reign Of Giants extends this to every enemy in the game.",
       "download_url": "https://github.com/mopioid/Borderlands-Reign-Of-Giants/releases/download/1.2/BorderlandsReignOfGiants.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1953,6 +2249,9 @@
       "version": "1.0.0",
       "description": "Respec skills from anywhere with a hotkey, still costs cash",
       "download_url": "https://raw.githubusercontent.com/PyrexBLJ/blsdk-mods/main/RHK/RHK.rar",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1969,6 +2268,9 @@
       "version": "1.0",
       "description": "Using the scroller in the options, choose your time in seconds for how long it takes to revive teammates. The options range from 0 to 10 seconds in 0.5 second increments.",
       "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/ReviveTimeModifier/ReviveTimeModifier.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -1984,6 +2286,10 @@
       "version": "1.1",
       "description": "Lets you reroll mission rewards at the cost of eridium. In multiplayer all players will be promted with the mission reward screen to reroll their own items.",
       "download_url": "https://github.com/ZetaDaemon/bl-sdk-mods/raw/main/RewardReroller/RewardReroller.zip",
+      "requires": [
+        "Enums>=1.0",
+        "Structs>=1.1"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2001,6 +2307,9 @@
       "version": "1.3",
       "description": "RogueLands is a mod that turns Borderlands into a Rogue-Lite game. This mod works similar to the 1life challenge, but with the twist, that when you die, you respawn at the start of the game with all your Exp. You will lose all your items, but you will keep your stats and skills. All progress with this mod will count towards the UVHM. You do not need to have it unlocked to play. Overpower Levels will also be ignored, it is recommended to create a new character for this mod! To complete the mod you must complete a set of challenges. (Check modded keybinds)",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/RogueLands/RogueLands.zip",
+      "requires": [
+        "UserFeedback>=1.5"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2016,6 +2325,9 @@
       "version": "1.0.8",
       "description": "A Mod that tracks save quits and item drops of at least legendary rarity. Chat command control with .rc prefix allows you to create new tracked farms, load previously made farms and control what data is shown where at any given time. If you are looking for something to make obs overlays check out ZetaD\u00e6mon's Farm Counter",
       "download_url": "https://raw.githubusercontent.com/PyrexBLJ/blsdk-mods/main/RunCounter/RunCounter1.0.8.rar",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2032,6 +2344,9 @@
       "version": "2.2",
       "description": "Disables sanity check, and also saves items which don't serialize, which would have parts deleted even with it off.",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/raw/c631c70226fe05e0209c34cd4f4e489a0c7154ce/SanitySaver/SanitySaver.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2049,6 +2364,9 @@
       "version": "1.0.0 2021-04-21",
       "description": "Back up the contents of your saves folder each time you launch the game. - You can set the number of backups that will be kept, to keep them below a certain threshold. - You can set which folder to back up and where to back up to.",
       "download_url": "https://github.com/plu5/p-borderlands/releases/download/v2.1.0/ExpAdjuster.zip",
+      "requires": [
+        "UserFeedback>=1.5"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2064,6 +2382,7 @@
       "version": "0.0.0",
       "description": "Users can name their BL2/TPS files anything they want that ends in the .sav extension. In addition, several utility features are included.",
       "download_url": "https://github.com/Justin99x/willow2-sdk-mods/raw/refs/heads/main/save_file_organizer/save_file_organizer.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -2079,6 +2398,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/releases/download/nightly/scaling_adjuster.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -2094,6 +2414,9 @@
       "version": "1.0",
       "description": "Displays a configurable timer on your HUD that counts the seconds before your shield starts to recharge",
       "download_url": "https://github.com/LaryIsland/bl-sdk-mods/raw/main/ShieldRechargeTimer/ShieldRechargeTimer.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2110,6 +2433,9 @@
       "version": "1.1",
       "description": "Adds a keybind option to the game that allows you to reset any shop you last used immediately. By default the key is binded to F9. It works in mutiplayer games.",
       "download_url": "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/ShopReseter/ShopReseter.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2126,6 +2452,9 @@
       "version": "1.0",
       "description": "Randomizes Players, Enemies and Vehicles scale when they spawn. Players are randomized after dying as well. If you're playing single player I highly recommend using the Alternate player scale.",
       "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/SillyScales/SillyScales.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2141,6 +2470,9 @@
       "version": "1.0",
       "description": "Fix several inexplicably invalid Simple Chinese Language localization words. Lyuda = \u9c81\u8fbe Minds Eye Skill = \u7075\u7280\u4e4b\u773c",
       "download_url": "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/SimpleChineseFix/SimpleChineseFix.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2156,6 +2488,9 @@
       "version": "1.0.0",
       "description": "Adds a keybind that allows you to zoom.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/SimpleZoom/SimpleZoom.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2173,6 +2508,9 @@
       "version": "1.0",
       "description": "This mod gives you the ability to save your current skill build, then restore right back to it later. When in game, hit your `Manage Skill Layouts` bind (Default: F3) Then choose whether or not you want to save your current skill build, then type in your skill build's name! From here, you can then restore back to that build for your current character class",
       "download_url": "https://raw.githubusercontent.com/FromDarkHell/bl-sdk-mods/main/SkillSaver/SkillSaver.zip",
+      "requires": [
+        "UserFeedback>=1.5"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2189,6 +2527,9 @@
       "version": "1.3.2",
       "description": "Lets you deactivate Action Skills by holding a configurable hotkey.",
       "download_url": "https://github.com/rlnt/bl2-skilltoggles/releases/download/v1.3.2/SkillToggles.zip",
+      "requires": [
+        "EridiumLib>=0.4.2"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2205,6 +2546,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/RedxYeti/bl2-willow2-sdkmods/raw/refs/heads/main/SkillTreeLoadouts/SkillTreeLoadouts.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -2220,6 +2562,9 @@
       "version": "1.2",
       "description": "Features: -Press a button to select a random customization combination ---This selects a random head/skin for characters and random skin for both vehicles -Adds an option to unlock customization eligibility ---This allows maya heads to be used on zer0, vehicle skins can be character skins, etc. ver 1.1: added in the function to allow the ranomize key to be rebound ver 1.2: renamed hooked function for compatibility",
       "download_url": "https://github.com/Cae-l/bl-sdk-mods/raw/master/SkinRandomizer/SkinRandomizer.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2235,6 +2580,11 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/juso40/bl2sdk-mods/raw/refs/heads/main/sliding/sliding.sdkmod",
+      "requires": [
+        "uemath",
+        "Coroutines",
+        "tweens"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2250,6 +2600,9 @@
       "version": "1.0.3",
       "description": "Automatically modifies ADS speed",
       "download_url": "https://raw.githubusercontent.com/PyrexBLJ/blsdk-mods/main/SniperButton/SniperButton.rar",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2266,6 +2619,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/Siggless/bl-sdk-mods/raw/refs/heads/main/SodOffSkeletonMages/SodOffSkeletonMages.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -2281,6 +2635,10 @@
       "version": "1.6",
       "description": "Allows you to salvage parts from items and attach them to other items. Just select an item from your backpack, hover over another item and press the 'salvage' hotkey. Default is [C] Note: the item you salvage parts from will be destroyed in the process.",
       "download_url": "https://github.com/LaryIsland/bl-sdk-mods/raw/main/SpareParts/SpareParts.zip",
+      "requires": [
+        "UserFeedback>=1.5",
+        "Python Part Notifier>=1.9"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2297,6 +2655,7 @@
       "version": "0.0.0",
       "description": "Adds an option to let you easily multiply the amount of spawns you're getting, updating live.",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/releases/download/nightly/spawn_multiplier.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -2312,6 +2671,11 @@
       "version": "1.1",
       "description": "Gotta go fast! Shows your current speed in km/h or mph.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/speedometer/speedometer.zip",
+      "requires": [
+        "Coroutines>=1.1",
+        "UEMath Library>=1.3",
+        "CanvasLIB>=1.0"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2329,6 +2693,7 @@
       "version": "0.0.0",
       "description": "Borderlands 2 mod with various utilities to help in practicing speedruns. All speedruns are currently supported on some level, although many runs (e.g. current patch) don't need much help other than an easy way to make practice saves.",
       "download_url": "https://github.com/Justin99x/willow2-sdk-mods/raw/refs/heads/main/speedrun_practice/speedrun_practice.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -2344,6 +2709,9 @@
       "version": "1.1.0 2021-05-17",
       "description": "- Change speed when sprinting, while preserving normal speed when not sprinting. - Optionally set Air Control to allow better control in the air with the movement keys, to have a better chance of stopping yourself from flinging off a cliff for instance. - Configurable keybinding to allow turning on and off on the fly.",
       "download_url": "https://github.com/plu5/p-borderlands/releases/download/v2.1.0/ExpAdjuster.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2359,6 +2727,9 @@
       "version": "1.0.0",
       "description": "This mod remembers your movement mode (sprinting or walking): if you were sprinting the last time you moved, you will automatically start sprinting the next time you move. Pressing the Sprint key will switch back and forth between sprinting and walking at any time. There is a setting in Mod Options that controls whether you start out sprinting or walking when the game begins.",
       "download_url": "https://gitlab.com/Ceiyne/borderlands-mods/-/raw/main/Sprint%20Set-and-Forget/Sprint_Set-and-Forget.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2375,6 +2746,9 @@
       "version": "1.0",
       "description": "Adds options to set your bank and backpack size, as well as remove checks on backpack size.",
       "download_url": "https://github.com/ncalvin1/Milo-BL2-SDK-Mods/raw/refs/heads/main/StorageManager/StorageManager_v1.0.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2392,6 +2766,9 @@
       "version": "1.1",
       "description": "Imports all Unrealscript structs into Python as named tuples.",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/raw/master/.legacy/Structs.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2409,6 +2786,9 @@
       "version": "1.0.0",
       "description": "High resolution screenshots independent of game resolution, 1440p - 16k",
       "download_url": "https://raw.githubusercontent.com/PyrexBLJ/blsdk-mods/main/SuperScreenshots/SuperScreenshots.rar",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2425,6 +2805,7 @@
       "version": "0.0.0",
       "description": "Automatically executes Text Mods stored in binaries.",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/releases/download/nightly/text_mod_loader.zip",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -2440,6 +2821,9 @@
       "version": "1.0",
       "description": "Adds a keybind option to the game that allows you to throw your current weapon and then pick up it immediately. The benefit of doing this is: 1.Switch weapon immediately. 2.Reloading magazine immediately. By default the key is binded to H.",
       "download_url": "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/ThrowWeaponThenPickup/ThrowWeaponThenPickup.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2456,6 +2840,9 @@
       "version": "1.0.1",
       "description": "Allows changing the current in-game time of day either to day, night, or forward in a fixed increment using hotkeys.",
       "download_url": "https://github.com/slserpent/bl-sdk-mods/raw/main/DayNight/DayNight.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2471,6 +2858,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/RedxYeti/bl2-willow2-sdkmods/raw/refs/heads/main/TPSStyleBHop/TPSStyleBHop.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -2486,6 +2874,9 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/juso40/bl2sdk-mods/raw/refs/heads/main/tracelib/tracelib.sdkmod",
+      "requires": [
+        "uemath"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2501,6 +2892,10 @@
       "version": "1.0.2",
       "description": "Trivia minigame for BL2, With easy and hard difficulties. Requires MapLoader and UserFeedback",
       "download_url": "https://raw.githubusercontent.com/PyrexBLJ/blsdk-mods/main/Trivia/Trivia.zip",
+      "requires": [
+        "MapLoader>=1.4.3",
+        "UserFeedback>=1.6"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2516,6 +2911,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/releases/download/nightly/true_damage_logger.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -2531,6 +2927,9 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/juso40/bl2sdk-mods/raw/refs/heads/main/tweens/tweens.sdkmod",
+      "requires": [
+        "Coroutines"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2546,6 +2945,9 @@
       "version": "1.2",
       "description": "Exposes many post processing effects to the user. It allows you to easily change the color of any scene. Furthermore you can change settings related to Depth of Field, Bloom, Motion Blur and many other effects. For this mod to work correctly, please ensure that you enabled the Depth of Field in your settings.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/UberPostProcessing/UberPostProcessing.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2563,6 +2965,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/juso40/bl2sdk-mods/raw/refs/heads/main/uemath/uemath.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -2578,6 +2981,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/ZetaDaemon/willow2-sdk-mods/releases/download/nightly/ue_timers.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -2593,6 +2997,9 @@
       "version": "1.5",
       "description": "This mod automaically equips items when they spawn as long as your character can equip them, showing a message when it's equipped. Excluded examples are items higher level than your character or classmods not for your character. Options include: Font Size sliders for the messages, more informative messages and a few gunzerker options. If you plan on playing gunzerker, make sure to check the known issues on github. Single player only. Nexus Mods: https://www.nexusmods.com/borderlands2/mods/412",
       "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/UltimateScavengerMod/Ultimate%20Scavenger%20Mod.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2608,6 +3015,9 @@
       "version": "1.1",
       "description": "Allows you to right click on skills to remove points from them. Removing points does get restricted by having points further up in the tree meaning you cannot go unlock a later skill and then just remove points from early skills.",
       "download_url": "https://github.com/ZetaDaemon/bl-sdk-mods/raw/main/UnspecSkills/UnspecSkills.zip",
+      "requires": [
+        "Enums>=1.0"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2625,6 +3035,9 @@
       "version": "1.6",
       "description": "Adds several functions/classes to let you show various types of feedback to and get input from your users.",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/raw/master/.legacy/UserFeedback.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2642,6 +3055,7 @@
       "version": "0.0.0",
       "description": "Lets you edit all your gear while in game. Get started by looking at it in your inventory.",
       "download_url": "https://github.com/apple1417/willow2-sdk-mods/releases/download/nightly/vendor_edit.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -2657,6 +3071,9 @@
       "version": "1.0",
       "description": "Provides keybinds for outlining waypoints and triggers with skeleton debug cylinders. !Visual Triggers%209_15_2021%204_17_58%20PM%20(2).png?raw=true) By default '8' will toggle waypoints and '9' will toggle triggers. Once enabled, you can change the keybinds for showing triggers and waypoints in the keybinds menu.",
       "download_url": "https://raw.githubusercontent.com/GameChanger97/Bl2-Mods/main/VisualTriggers/VisualTriggers.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2672,6 +3089,9 @@
       "version": "1.0.1",
       "description": "Adds on-screen real-time weapon statistics and/or part attributes displays.",
       "download_url": "https://github.com/slserpent/bl-sdk-mods/raw/main/WeaponDebug/WeaponDebug.zip",
+      "requires": [
+        "Enums>=1.0"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2687,6 +3107,7 @@
       "version": "0.0.0",
       "description": "This mod ports weapon proficiencies from Borderlands 1 without any changes.",
       "download_url": "https://github.com/RedxYeti/bl2-willow2-sdkmods/raw/refs/heads/main/WeaponProf/WeaponProf.sdkmod",
+      "requires": [],
       "supports": [
         "BL2"
       ],
@@ -2702,6 +3123,9 @@
       "version": "1.1",
       "description": "Adds a keybind option to the game that allows you to switch to the last used weapon quickly. By default the key is binded to Q.",
       "download_url": "https://raw.githubusercontent.com/aa3615058/Lengyu-BL2-sdk-Mods/main/WeaponQuickSwitcher/WeaponQuickSwitcher.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
@@ -2718,6 +3142,9 @@
       "version": "1.0",
       "description": "Auto randomizes the weapon in the first slot every X seconds, or on pressing a configurable keybind.",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/WeaponRandomizer/WeaponRandomizer.zip",
+      "requires": [
+        "[]"
+      ],
       "supports": [
         "BL2"
       ],
