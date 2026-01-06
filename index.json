@@ -45,9 +45,7 @@
       "version": "0.0.0",
       "description": "",
       "download_url": "https://github.com/juso40/bl2sdk-mods/raw/refs/heads/main/akevent_player/akevent_player.sdkmod",
-      "requires": [
-        "blimgui"
-      ],
+      "requires": ["blimgui"],
       "supports": [
         "BL2"
       ],
@@ -3156,4 +3154,5 @@
       "entry_md": "WeaponRandomizer.md"
     }
   ]
+
 }
