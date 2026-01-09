@@ -2229,7 +2229,7 @@
       "name": "Reign Of Giants",
       "author": "mopioid",
       "version": "1.2",
-      "description": "It’s a concept we all know and love: Rare enemy variants, like Loot Midgets and Tubbies. Reign Of Giants extends this to every enemy in the game. Yes, every enemy in the game! In Reign Of Giants, Psychos, Loaders, Saturn, Loot Midgets, Varkids, Savage Lee, Dexiduous the Invincible… All have a rare chance of spawning as a gigantic version of their normal self. Upon encountering a Giant, you will be faced with an enemy notably stronger than the common variant, but will be appropriately rewarded. In addition to more XP, Giants drop a guaranteed item from a specialized loot pool.",
+      "description": "It’s a concept we all know and love: Rare enemy variants, like Loot Midgets and Tubbies. Reign Of Giants extends this to every enemy in the game. Yes, every enemy in the game!",
       "download_url": "https://github.com/mopioid/Borderlands-Reign-Of-Giants/releases/download/1.2/BorderlandsReignOfGiants.zip",
       "requires": [
         "[]"
@@ -2305,7 +2305,7 @@
       "name": "RogueLands",
       "author": "juso",
       "version": "1.3",
-      "description": "RogueLands is a mod that turns Borderlands into a Rogue-Lite game. This mod works similar to the 1life challenge, but with the twist, that when you die, you respawn at the start of the game with all your Exp. You will lose all your items, but you will keep your stats and skills. All progress with this mod will count towards the UVHM. You do not need to have it unlocked to play. Overpower Levels will also be ignored, it is recommended to create a new character for this mod! To complete the mod you must complete a set of challenges. (Check modded keybinds)",
+      "description": "RogueLands is a mod that turns Borderlands into a Rogue-Lite game. This mod works similar to the 1life challenge, but with the twist, that when you die, you respawn at the start of the game with all your Exp. You will lose all your items, but you will keep your stats and skills. All progress with this mod will count towards the UVHM.(Check modded keybinds)",
       "download_url": "https://github.com/juso40/bl2sdk_Mods/raw/master/RogueLands/RogueLands.zip",
       "requires": [
         "UserFeedback>=1.5"
@@ -2995,7 +2995,7 @@
       "name": "Ultimate Scavenger Mod",
       "author": "RedxYeti",
       "version": "1.5",
-      "description": "This mod automaically equips items when they spawn as long as your character can equip them, showing a message when it’s equipped. Excluded examples are items higher level than your character or classmods not for your character. Options include: Font Size sliders for the messages, more informative messages and a few gunzerker options. If you plan on playing gunzerker, make sure to check the known issues on github. Single player only. Nexus Mods: https://www.nexusmods.com/borderlands2/mods/412",
+      "description": "This mod automaically equips items when they spawn as long as your character can equip them, showing a message when it’s equipped. Excluded examples are items higher level than your character or classmods not for your character.",
       "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/UltimateScavengerMod/Ultimate%20Scavenger%20Mod.zip",
       "requires": [
         "[]"
@@ -3105,7 +3105,7 @@
       "name": "WeaponProf",
       "author": "Unknown",
       "version": "1",
-      "description": "This mod ports weapon proficiencies from Borderlands 1 without any changes. Get a kill while holding a specific weapon and the proficiency goes up based on how much xp the enemy was worth.While gunzerkering, the xp is split between the 2 weapons.You can see your progress in the challenges tab of the badass rank screen, turning off badass rank does not affect this mod.I’ve decided to show all 5 buffs for the sniper. In Borderlands 1 it only shows 3 buffs in the menu, but it actually buffs all 5.I’ve mostly used this mod with Blassic (https://www.nexusmods.com/borderlands2/mods/195) which brings more of a Borderlands 1 feel to the game.Options include a choice between level 50 and 80 for the cap and an option to turn off sals left hand buffs. (Turning off the left hand buffs does not affect the xp gain while gunzerking)",
+      "description": "This mod ports weapon proficiencies from Borderlands 1 without any changes. Get a kill while holding a specific weapon and the proficiency goes up based on how much xp the enemy was worth. While gunzerkering, the xp is split between the 2 weapons. You can see your progress in the challenges tab of the badass rank screen, turning off badass rank does not affect this mod. I’ve decided to show all 5 buffs for the sniper. In Borderlands 1 it only shows 3 buffs in the menu, but it actually buffs all 5.",
       "download_url": "https://github.com/RedxYeti/bl2-willow2-sdkmods/raw/refs/heads/main/WeaponProf/WeaponProf.sdkmod",
       "requires": [],
       "supports": [
@@ -3158,6 +3158,7 @@
   ]
 
 }
+
 
 
 
