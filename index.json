@@ -972,7 +972,7 @@
       "author": "RedxYeti",
       "version": "1.0",
       "description": "This mod will allow you to have keys do multiple things. I highly suggest you read the readme and check out the example ini on github.",
-      "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/releases/download/SDKMods/ActionSkillCountdown.zip",
+      "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/releases/download/SDKMods/DualBinds.zip",
       "requires": [
         "[]"
       ],
@@ -2996,7 +2996,7 @@
       "author": "RedxYeti",
       "version": "1.5",
       "description": "This mod automaically equips items when they spawn as long as your character can equip them, showing a message when it’s equipped. Excluded examples are items higher level than your character or classmods not for your character.",
-      "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/raw/refs/heads/main/UltimateScavengerMod/Ultimate%20Scavenger%20Mod.zip",
+      "download_url": "https://github.com/RedxYeti/Yeti-BL2-SDK-Mods/releases/download/SDKMods/UltimateScavengerMod1.5.zip",
       "requires": [
         "[]"
       ],
@@ -3158,6 +3158,7 @@
   ]
 
 }
+
 
 
 
