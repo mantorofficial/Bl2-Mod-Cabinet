@@ -1280,7 +1280,7 @@
       "name": "Gear Randomiser",
       "author": "ZetaD\\xE6mon",
       "version": "1.0",
-      "description": "Randomises all gear in the game. Adds options to additionally choose which character class mods will be locked to as well as a chaos mode which removes restrictions for weapons as to which parts spawn where on a gun. Does not change how loot is obtained or enemy drops so it is highly suggested to also use a mod like Cold Dead Hands. Also works with mods that add new gear to the game, you will just need to update parts for the randomiser in the mod enable window after running the other mod. If progess is stuck due to weapon randomisation there is a backup button to re-randomise all weapons not belonging to the player.",
+      "description": "Randomises all gear in the game. Adds options to additionally choose which character class mods will be locked to as well as a chaos mode which removes restrictions for weapons as to which parts spawn where on a gun. Does not change how loot is obtained or enemy drops so it is highly suggested to also use a mod like Cold Dead Hands.",
       "download_url": "https://github.com/ZetaDaemon/bl-sdk-mods/raw/main/GearRandomiser/GearRandomiser.zip",
       "requires": [
         "Structs>=1.0",
@@ -3158,3 +3158,4 @@
   ]
 
 }
+
