@@ -175,6 +175,22 @@
       "entry_md": "AmbientSpawns.md"
     },
     {
+      "id": "AnarchyDeathCap",
+      "name": "AnarchyDeathCap",
+      "author": "Unknown",
+      "version": "1.2.1",
+      "description": "Limits Anarchy stack loss on death for the Mechromancer, allowing players to maintain Anarchy-focused builds without interfering with normal gameplay flow. Anarchy stacks are also preserved when quitting the game, preventing unintended losses outside of combat. By default, the stack loss limitation requires points in Rational Anarchist, keeping the behavior tied to skill investment. This requirement can be disabled through the mod options. When the player has points in Rational Anarchist and respawns with fewer than 25 Anarchy stacks, stacks are reset to 0, since rebuilding Anarchy is faster and more consistent from zero than from low values. Mod options dynamically update the Rational Anarchist skill description, ensuring that the in-game text always reflects the current configuration. All behaviors provided by this mod can be fully configured through the in-game mod options menu.",
+      "download_url": "https://github.com/renard162/borderlands_sdk_mods/releases/download/Releases/AnarchyDeathCap.sdkmod",
+      "requires": [],
+      "supports": [
+        "BL2"
+      ],
+      "games": [
+        "bl2"
+      ],
+      "entry_md": "AnarchyDeathCap.md"
+    },
+    {
       "id": "AnarchySaver",
       "name": "AnarchySaver",
       "author": "Unknown",
@@ -223,6 +239,22 @@
         "bl2"
       ],
       "entry_md": "AudioControl.md"
+    },
+    {
+      "id": "AutoLoot",
+      "name": "AutoLoot",
+      "author": "Unknown",
+      "version": "2.0.1",
+      "description": "Automatically picks up weapons and items with configurable options",
+      "download_url": "https://github.com/galqawala/AutoLoot/raw/refs/heads/master/AutoLoot.sdkmod",
+      "requires": [],
+      "supports": [
+        "BL2"
+      ],
+      "games": [
+        "bl2"
+      ],
+      "entry_md": "AutoLoot.md"
     },
     {
       "id": "AutomaticReloadFix",
@@ -496,6 +528,22 @@
         "bl2"
       ],
       "entry_md": "bl2eternal.md"
+    },
+    {
+      "id": "Bl2ModCabinet",
+      "name": "Bl2ModCabinet",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "description": "**Mod Cabinet** adds an in-game “cabinet” style menu for Borderlands 2 SDK mods. It’s designed to behave like the normal Mods menu (options-style list with hover/click selection), while letting you:- Browse available mods View mod info (author/version/description)- Install and uninstall directly from the UI- Update outaded versions",
+      "download_url": "https://github.com/mantorofficial/Bl2-ModCabinet/raw/refs/heads/main/ModCabinetStore.sdkmod",
+      "requires": [],
+      "supports": [
+        "BL2"
+      ],
+      "games": [
+        "bl2"
+      ],
+      "entry_md": "Bl2ModCabinet.md"
     },
     {
       "id": "blimgui",
