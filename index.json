@@ -1722,7 +1722,7 @@
       "entry_md": "mario.md"
     },
     {
-      "id": "mateditor",
+      "id": "Material Editor",
       "name": "mateditor",
       "author": "Unknown",
       "version": "1.0",
@@ -3190,6 +3190,7 @@
   ]
 
 }
+
 
 
 
