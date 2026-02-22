@@ -803,6 +803,22 @@
       "entry_md": "Constructor.md"
     },
     {
+      "id": "ControllerBinds",
+      "name": "ControllerBinds",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "description": "Adds controller combo binds for any mod keybinds, plus a menu button for the mod menu. All controller binds are set in this mod's keybind options.",
+      "download_url": "https://github.com/Siggless/bl-sdk-mods/raw/refs/heads/main/ControllerBinds/ControllerBinds.sdkmod",
+      "requires": [],
+      "supports": [
+        "BL2"
+      ],
+      "games": [
+        "bl2"
+      ],
+      "entry_md": "ControllerBinds.md"
+    },
+    {
       "id": "Coroutines",
       "name": "Coroutines",
       "author": "Unknown",
@@ -3190,6 +3206,7 @@
   ]
 
 }
+
 
 
 
